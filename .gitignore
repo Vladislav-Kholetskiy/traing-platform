@@ -1,0 +1,67 @@
+HELP.md
+
+# Build outputs and local dependency caches
+target/
+.m2/
+.p/
+frontend/node_modules/
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# IDE and editor files
+.idea/
+.codex-reports/
+.git-backup-*/
+.agents/
+*.iws
+*.iml
+*.ipr
+.vscode/
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+# Local runtime and temporary files
+tmp/
+protection/
+traing-platform/
+*.log
+*.pid
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Local environment files
+frontend/.env
+
+# Office temporary and derived files
+~$*.docx
+~$*.pptx
+*.backup.docx
+*.cleaned.docx
+FQW/_docx_metadata_cleanup_*/
+FQW/_render_*/
+FQW/*.backup.docx
+FQW/*.cleaned.docx
+
+# Large local exports and research-only workspace data
+FQW/
+docs/
+demo-data/
+skills-lock.json
+.mvn/local-settings.xml
+SCV/
+artifacts/

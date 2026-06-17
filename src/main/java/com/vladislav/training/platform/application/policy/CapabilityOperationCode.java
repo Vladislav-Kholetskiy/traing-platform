@@ -1,0 +1,92 @@
+package com.vladislav.training.platform.application.policy;
+
+import java.util.Arrays;
+import java.util.Map;
+import java.util.function.Function;
+import java.util.stream.Collectors;
+
+/**
+ * Перечисление {@code CapabilityOperationCode}.
+ */
+public enum CapabilityOperationCode {
+
+    USERORG_USER_CREATE,
+    USERORG_USER_UPDATE,
+    USERORG_USER_DEACTIVATE,
+    USERORG_USER_ROLE_ASSIGN,
+    USERORG_USER_ROLE_CLOSE,
+    USERORG_USER_ORGANIZATION_ASSIGN,
+    USERORG_USER_ORGANIZATION_CLOSE,
+    USERORG_USER_PRIMARY_HOME_REPLACE,
+
+    USERORG_ORGANIZATIONAL_UNIT_TYPE_CREATE,
+    USERORG_ORGANIZATIONAL_UNIT_TYPE_UPDATE,
+    USERORG_ORGANIZATIONAL_UNIT_CREATE,
+    USERORG_ORGANIZATIONAL_UNIT_UPDATE,
+    USERORG_ORGANIZATIONAL_UNIT_MOVE,
+    USERORG_ORGANIZATIONAL_UNIT_ARCHIVE,
+
+    ACCESS_USER_ACCESS_AREA_ASSIGN,
+    ACCESS_USER_ACCESS_AREA_CLOSE,
+    ACCESS_MANAGEMENT_RELATION_ASSIGN,
+    ACCESS_MANAGEMENT_RELATION_CLOSE,
+    ACCESS_TEMPORARY_ROLE_ASSIGN,
+    ACCESS_TEMPORARY_ROLE_CLOSE,
+    ACCESS_TEMPORARY_ACCESS_ASSIGN,
+    ACCESS_TEMPORARY_ACCESS_CLOSE,
+    ACCESS_TEMPORARY_MANAGEMENT_ASSIGN,
+    ACCESS_TEMPORARY_MANAGEMENT_CLOSE,
+
+    CONTENT_DRAFT_CREATE,
+    CONTENT_DRAFT_UPDATE,
+    CONTENT_PUBLISH,
+    CONTENT_ARCHIVE,
+    CONTENT_FINAL_ASSIGN,
+    CONTENT_FINAL_REPLACE,
+    CONTENT_FINAL_CLEAR,
+
+    ASSIGNMENT_CAMPAIGN_LAUNCH,
+    ASSIGNMENT_CANCEL,
+    ASSIGNMENT_DEADLINE_EXTEND,
+    ASSIGNMENT_REPLACE_WITH_NEW,
+
+    TESTING_ASSIGNED_ATTEMPT_START,
+    TESTING_ASSIGNED_ATTEMPT_CONTINUE,
+    TESTING_SELF_ATTEMPT_START,
+    TESTING_SELF_ATTEMPT_CONTINUE,
+    TESTING_ASSIGNED_ATTEMPT_SUBMIT,
+    TESTING_SELF_ATTEMPT_SUBMIT,
+    TESTING_SELF_ATTEMPT_ABANDON,
+    TESTING_ASSIGNED_ANSWER_MUTATION,
+    TESTING_SELF_ANSWER_MUTATION,
+
+    NOTIFICATION_RULE_CREATE,
+    NOTIFICATION_RULE_UPDATE,
+    NOTIFICATION_RULE_ENABLE,
+    NOTIFICATION_RULE_DISABLE,
+    ANALYTICS_RESULT_REBUILD,
+    PERSONNEL_EXCEL_DRY_RUN,
+    PERSONNEL_EXCEL_APPLY,
+    IMPORT_JOB_LAUNCH,
+    IMPORT_ITEM_REVIEW_APPLY,
+    IMPORT_ITEM_REVIEW_REJECT;
+
+    private static final Map<String, CapabilityOperationCode> BY_CODE = Arrays.stream(values())
+        .collect(Collectors.toUnmodifiableMap(CapabilityOperationCode::code, Function.identity()));
+
+    public String code() {
+        return name();
+    }
+
+    public static boolean isKnown(String code) {
+        return BY_CODE.containsKey(code);
+    }
+
+    public static CapabilityOperationCode fromCode(String code) {
+        CapabilityOperationCode operation = BY_CODE.get(code);
+        if (operation == null) {
+            throw new IllegalArgumentException("Unknown capability operation code: " + code);
+        }
+        return operation;
+    }
+}

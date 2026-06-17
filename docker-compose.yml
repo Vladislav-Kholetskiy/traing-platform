@@ -1,0 +1,20 @@
+version: '3.9'
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: training_platform_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: training_platform
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      TZ: UTC
+      PGTZ: UTC
+    ports:
+      - "5433:5432"
+    volumes:
+      - training_platform_postgres_data:/var/lib/postgresql/data
+
+volumes:
+  training_platform_postgres_data:
