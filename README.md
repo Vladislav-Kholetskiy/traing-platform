@@ -1,45 +1,53 @@
 # Training Platform
 
-`training-platform` is a training management platform with a Spring Boot backend, a React frontend, and bundled local demo data for development and scenario verification.
+`training-platform` - это платформа управления обучением с backend на Spring Boot и frontend на React.
 
-## Stack
+## Стек
 
-- Backend: Java 21, Spring Boot, Spring MVC, Spring Data JPA, Flyway, Quartz, Spring Security
+- Backend: Java 21, Spring Boot 4, Spring MVC, Spring Data JPA, Flyway, Quartz, Spring Security
 - Frontend: React, TypeScript, Vite, Ant Design, TanStack Query
-- Database: PostgreSQL 16
+- База данных: PostgreSQL 16
 
-## Repository Layout
+## Структура репозитория
 
-- `src/` - backend source code and tests
-- `frontend/` - frontend application
-- `demo-data/` - local demo data, helper scripts, and runbooks
-- `docs/` - project documentation
-- `FQW/` - thesis and supporting research materials
+- `src/` - backend-код и тесты
+- `frontend/` - frontend-приложение
+- `demo-data/` - демонстрационные данные, вспомогательные сценарии и скрипты для локальной проверки
+- `.mvn/`, `mvnw`, `mvnw.cmd` - Maven Wrapper для локальной сборки
+- `docker-compose.yml` - локальный PostgreSQL для разработки
 
-## Local Development
+## Требования
 
-### 1. Start PostgreSQL
+- Java 21
+- Node.js и npm
+- Docker Desktop или совместимый Docker Engine
+
+## Локальный запуск
+
+### 1. Запуск PostgreSQL
 
 ```powershell
 docker compose up -d
 ```
 
-Local defaults for development only:
+Параметры локальной базы данных по умолчанию:
 
-- Database: `training_platform`
-- User: `postgres`
-- Password: `postgres`
-- Port: `5433`
+- база данных: `training_platform`
+- пользователь: `postgres`
+- пароль: `postgres`
+- порт: `5433`
 
-### 2. Start the backend
+### 2. Запуск backend
 
 ```powershell
 .\mvnw.cmd spring-boot:run "-Dspring-boot.run.profiles=dev"
 ```
 
-The `dev` profile supports local demo actor switching through the `X-Demo-Actor-Id` header.
+Backend по умолчанию доступен по адресу `http://localhost:8080`.
 
-### 3. Start the frontend
+Профиль `dev` поддерживает локальное переключение демонстрационного пользователя через заголовок `X-Demo-Actor-Id`.
+
+### 3. Запуск frontend
 
 ```powershell
 cd frontend
@@ -48,37 +56,42 @@ npm install
 npm run dev
 ```
 
-Default frontend environment:
+Frontend по умолчанию доступен по адресу `http://localhost:5173`.
+
+Пример локального файла `.env`:
 
 ```env
 VITE_API_BASE_URL=http://localhost:8080
 VITE_DEMO_ACTOR_ID=1
 ```
 
-## Build
+## Сборка
 
-Backend compile:
+### Backend
 
 ```powershell
 .\mvnw.cmd -DskipTests compile
 ```
 
-Frontend production build:
+### Frontend
 
 ```powershell
 cd frontend
 npm run build
 ```
 
-## Notes For Public Distribution
+## Что есть в приложении
 
-- `frontend/.env` is local-only and must not be committed
-- local logs, archives, IDE files, Maven cache, and temporary render outputs are intentionally ignored
-- demo credentials in `docker-compose.yml` are for local development only
-- review `demo-data/` before publishing if you want to replace bundled demo content with a smaller or more generic sample set
+- личный кабинет обучающегося
+- назначенное обучение и самостоятельное тестирование
+- просмотр результатов и уведомлений
+- управленческая аналитика
+- инструменты эксперта для работы с учебным контентом
+- административные разделы для пользователей, оргструктуры, доступов, назначений, импорта и аудита
 
-## Additional Docs
+## Примечания
 
-- [frontend/README.md](/D:/Users/vladi/Desktop/Diplom/Java/training-platform/frontend/README.md)
-- [docs/demo/demo-data-setup.md](/D:/Users/vladi/Desktop/Diplom/Java/training-platform/docs/demo/demo-data-setup.md)
-- [docs/README.md](/D:/Users/vladi/Desktop/Diplom/Java/training-platform/docs/README.md)
+- `frontend/.env` используется только локально и не должен попадать в Git
+- `docker-compose.yml` содержит настройки только для локальной разработки
+- `demo-data/` предназначен для локального наполнения и сценарной проверки приложения
+- если описание в `README` расходится с текущим кодом, ориентироваться следует на реализацию в `src/` и `frontend/src/`

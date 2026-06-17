@@ -1,0 +1,52 @@
+employeeNumber,lastName,firstName,middleName,employmentStatus,homeOrgUnitCode,basePositionCode,temporaryPositionCode,temporaryOrgUnitCode,temporaryValidFrom,temporaryValidTo,comment
+NPZ-ITR-HQ-001,Соколов,Андрей,Викторович,ACTIVE,HQ,HEAD,,,,,Single ITR chief at headquarters
+NPZ-ITR-PROD-001,Егоров,Павел,Игоревич,ACTIVE,PROD,HEAD,,,,,Single ITR chief for production block
+NPZ-ITR-CCK-001,Баранов,Олег,Николаевич,ACTIVE,CCK,HEAD,,,,,ITR chief for CCK complex
+NPZ-ITR-CMT-001,Захаров,Владимир,Петрович,ACTIVE,CMT,HEAD,,,,,ITR chief for CMT complex
+NPZ-ITR-UKK-001,Морозов,Илья,Алексеевич,ACTIVE,CCK-UKK,HEAD,,,,,ITR chief for installation
+NPZ-ITR-UPV-001,Воробьев,Роман,Дмитриевич,ACTIVE,CCK-UPV,HEAD,,,,,ITR chief for installation
+NPZ-ITR-MTBEO-001,Павлов,Степан,Олегович,ACTIVE,CMT-MTBEO,HEAD,,,,,ITR chief for installation
+NPZ-ITR-GOBKK-001,Тихонов,Максим,Андреевич,ACTIVE,CMT-GOBKK,HEAD,,,,,ITR chief for installation
+NPZ-ITR-TAME-001,Крылов,Евгений,Валерьевич,ACTIVE,CMT-TAME,HEAD,,,,,ITR chief for installation
+NPZ-EXP-EDU-001,Лебедева,Марина,Сергеевна,ACTIVE,EDU,DEV,,,,,Single expert for learning materials department
+NPZ-ITR-HSE-001,Фролова,Ирина,Владимировна,ACTIVE,HSE,DEV,,,,,ITR specialist for HSE department
+NPZ-OP-UKK-001,Смирнов,Алексей,Павлович,ACTIVE,CCK-UKK,OPS,,,,,Installation operator
+NPZ-OP-UKK-002,Попов,Никита,Романович,ACTIVE,CCK-UKK,OPS,,,,,Installation operator
+NPZ-OP-UKK-003,Иванов,Даниил,Сергеевич,ACTIVE,CCK-UKK,OPS,,,,,Installation operator
+NPZ-OP-UKK-004,Новиков,Егор,Андреевич,ACTIVE,CCK-UKK,OPS,,,,,Installation operator
+NPZ-OP-UKK-005,Федоров,Игорь,Вячеславович,ACTIVE,CCK-UKK,OPS,,,,,Installation operator
+NPZ-OP-UKK-006,Васильев,Кирилл,Олегович,ACTIVE,CCK-UKK,OPS,,,,,Installation operator
+NPZ-OP-UKK-007,Орлов,Антон,Васильевич,ACTIVE,CCK-UKK,OPS,,,,,Installation operator
+NPZ-OP-UKK-008,Никитин,Тимур,Евгеньевич,ACTIVE,CCK-UKK,OPS,,,,,Installation operator
+NPZ-OP-UPV-001,Макаров,Артем,Юрьевич,ACTIVE,CCK-UPV,OPS,,,,,Installation operator
+NPZ-OP-UPV-002,Белов,Сергей,Ильич,ACTIVE,CCK-UPV,OPS,,,,,Installation operator
+NPZ-OP-UPV-003,Комаров,Денис,Максимович,ACTIVE,CCK-UPV,OPS,,,,,Installation operator
+NPZ-OP-UPV-004,Гаврилов,Петр,Алексеевич,ACTIVE,CCK-UPV,OPS,,,,,Installation operator
+NPZ-OP-UPV-005,Киселев,Руслан,Игоревич,ACTIVE,CCK-UPV,OPS,,,,,Installation operator
+NPZ-OP-UPV-006,Соловьев,Михаил,Викторович,ACTIVE,CCK-UPV,OPS,,,,,Installation operator
+NPZ-OP-UPV-007,Поляков,Владислав,Павлович,ACTIVE,CCK-UPV,OPS,,,,,Installation operator
+NPZ-OP-UPV-008,Козлов,Григорий,Сергеевич,ACTIVE,CCK-UPV,OPS,,,,,Installation operator
+NPZ-OP-MTBEO-001,Тарасов,Александр,Олегович,ACTIVE,CMT-MTBEO,OPS,,,,,Installation operator
+NPZ-OP-MTBEO-002,Семенов,Дмитрий,Петрович,ACTIVE,CMT-MTBEO,OPS,,,,,Installation operator
+NPZ-OP-MTBEO-003,Жуков,Илья,Викторович,ACTIVE,CMT-MTBEO,OPS,,,,,Installation operator
+NPZ-OP-MTBEO-004,Наумов,Роман,Андреевич,ACTIVE,CMT-MTBEO,OPS,,,,,Installation operator
+NPZ-OP-MTBEO-005,Алексеев,Степан,Игоревич,ACTIVE,CMT-MTBEO,OPS,,,,,Installation operator
+NPZ-OP-MTBEO-006,Громов,Павел,Юрьевич,ACTIVE,CMT-MTBEO,OPS,,,,,Installation operator
+NPZ-OP-MTBEO-007,Медведев,Константин,Николаевич,ACTIVE,CMT-MTBEO,OPS,,,,,Installation operator
+NPZ-OP-MTBEO-008,Титов,Николай,Сергеевич,ACTIVE,CMT-MTBEO,OPS,,,,,Installation operator
+NPZ-OP-GOBKK-001,Карпов,Арсений,Васильевич,ACTIVE,CMT-GOBKK,OPS,,,,,Installation operator
+NPZ-OP-GOBKK-002,Калинин,Денис,Алексеевич,ACTIVE,CMT-GOBKK,OPS,,,,,Installation operator
+NPZ-OP-GOBKK-003,Рябов,Леонид,Павлович,ACTIVE,CMT-GOBKK,OPS,,,,,Installation operator
+NPZ-OP-GOBKK-004,Зуев,Ильдар,Романович,ACTIVE,CMT-GOBKK,OPS,,,,,Installation operator
+NPZ-OP-GOBKK-005,Пономарев,Виталий,Дмитриевич,ACTIVE,CMT-GOBKK,OPS,,,,,Installation operator
+NPZ-OP-GOBKK-006,Гусев,Ярослав,Игоревич,ACTIVE,CMT-GOBKK,OPS,,,,,Installation operator
+NPZ-OP-GOBKK-007,Дорофеев,Артур,Сергеевич,ACTIVE,CMT-GOBKK,OPS,,,,,Installation operator
+NPZ-OP-GOBKK-008,Лазарев,Матвей,Олегович,ACTIVE,CMT-GOBKK,OPS,,,,,Installation operator
+NPZ-OP-TAME-001,Шаров,Виктор,Андреевич,ACTIVE,CMT-TAME,OPS,,,,,Installation operator
+NPZ-OP-TAME-002,Ефимов,Марат,Павлович,ACTIVE,CMT-TAME,OPS,,,,,Installation operator
+NPZ-OP-TAME-003,Абрамов,Иван,Дмитриевич,ACTIVE,CMT-TAME,OPS,,,,,Installation operator
+NPZ-OP-TAME-004,Быков,Станислав,Николаевич,ACTIVE,CMT-TAME,OPS,,,,,Installation operator
+NPZ-OP-TAME-005,Фомин,Рустам,Сергеевич,ACTIVE,CMT-TAME,OPS,,,,,Installation operator
+NPZ-OP-TAME-006,Савельев,Артемий,Игоревич,ACTIVE,CMT-TAME,OPS,,,,,Installation operator
+NPZ-OP-TAME-007,Яковлев,Глеб,Владимирович,ACTIVE,CMT-TAME,OPS,,,,,Installation operator
+NPZ-OP-TAME-008,Давыдов,Богдан,Олегович,ACTIVE,CMT-TAME,OPS,,,,,Installation operator

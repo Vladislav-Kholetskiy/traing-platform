@@ -1,0 +1,14 @@
+external_id,runtime_name,parent_external_id,type_code
+DEPT,department,,department
+NPZ,npz,DEPT,enterprise
+HQ,zavodoupravlenie,NPZ,administrative_unit
+PROD,production,NPZ,production_block
+CCK,cck,PROD,production_complex
+CCK-UKK,ukk,CCK,process_unit
+CCK-UPV,upv,CCK,process_unit
+CMT,komt,PROD,production_complex
+CMT-MTBEO,mtbeo,CMT,process_unit
+CMT-GOBKK,gobkk,CMT,process_unit
+CMT-TAME,tame,CMT,process_unit
+EDU,edu,NPZ,administrative_unit
+HSE,hse,NPZ,administrative_unit

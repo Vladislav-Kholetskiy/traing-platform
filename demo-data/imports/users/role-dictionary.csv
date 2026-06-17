@@ -1,0 +1,4 @@
+role_code,role_name,description,seed_stage,note
+EXPERT,Expert,Content and learning materials expert contour,bootstrap,Already present in current demo-import backend
+OPERATOR,Operator,Learner contour for installation operators,bootstrap,Already present in current demo-import backend
+MANAGER,Manager,Managerial and engineering-technical contour for chiefs and ITR specialists,additional_seed,Add this role before loading ITR users if it is absent in app_role

@@ -60,7 +60,6 @@ FQW/*.cleaned.docx
 # Large local exports and research-only workspace data
 FQW/
 docs/
-demo-data/
 skills-lock.json
 .mvn/local-settings.xml
 SCV/

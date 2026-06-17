@@ -1,0 +1,52 @@
+employee_number,system_role_code,assignment_order,rationale
+NPZ-ITR-HQ-001,MANAGER,after_user_create,Role can be assigned right after user creation
+NPZ-ITR-PROD-001,MANAGER,after_user_create,Role can be assigned right after user creation
+NPZ-ITR-CCK-001,MANAGER,after_user_create,Role can be assigned right after user creation
+NPZ-ITR-CMT-001,MANAGER,after_user_create,Role can be assigned right after user creation
+NPZ-ITR-UKK-001,MANAGER,after_user_create,Role can be assigned right after user creation
+NPZ-ITR-UPV-001,MANAGER,after_user_create,Role can be assigned right after user creation
+NPZ-ITR-MTBEO-001,MANAGER,after_user_create,Role can be assigned right after user creation
+NPZ-ITR-GOBKK-001,MANAGER,after_user_create,Role can be assigned right after user creation
+NPZ-ITR-TAME-001,MANAGER,after_user_create,Role can be assigned right after user creation
+NPZ-EXP-EDU-001,EXPERT,after_user_create,Role can be assigned right after user creation
+NPZ-ITR-HSE-001,MANAGER,after_user_create,Role can be assigned right after user creation
+NPZ-OP-UKK-001,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UKK-002,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UKK-003,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UKK-004,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UKK-005,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UKK-006,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UKK-007,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UKK-008,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UPV-001,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UPV-002,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UPV-003,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UPV-004,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UPV-005,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UPV-006,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UPV-007,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-UPV-008,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-MTBEO-001,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-MTBEO-002,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-MTBEO-003,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-MTBEO-004,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-MTBEO-005,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-MTBEO-006,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-MTBEO-007,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-MTBEO-008,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-GOBKK-001,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-GOBKK-002,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-GOBKK-003,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-GOBKK-004,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-GOBKK-005,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-GOBKK-006,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-GOBKK-007,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-GOBKK-008,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-TAME-001,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-TAME-002,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-TAME-003,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-TAME-004,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-TAME-005,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-TAME-006,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-TAME-007,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment
+NPZ-OP-TAME-008,OPERATOR,after_primary_home_unit,Operator contour requires one active PRIMARY home unit before role assignment

@@ -1,0 +1,14 @@
+code,full_name,short_name,parent_code,type
+DEPT,Департамент,Департамент,,department
+NPZ,Нефтеперерабатывающий завод,НПЗ,DEPT,enterprise
+HQ,Заводоуправление,Заводоуправление,NPZ,administrative_unit
+PROD,Производство,Производство,NPZ,production_block
+CCK,Комплекс каталитического крекинга,ККК,PROD,production_complex
+CCK-UKK,Технологическая установка каталитического крекинга,УКК,CCK,process_unit
+CCK-UPV,Технологическая установка производства водорода,УПВ,CCK,process_unit
+CMT,Комплекс облагораживания моторных топлив,КОМТ,PROD,production_complex
+CMT-MTBEO,Технологическая установка по производству МТБЭ и олигомеризата,МТБЭиО,CMT,process_unit
+CMT-GOBKK,Технологическая установка гидрооблагораживания бензина каталитического крекинга,ГОБКК,CMT,process_unit
+CMT-TAME,Технологическая установка по производству ТАМЭ,ТАМЭ,CMT,process_unit
+EDU,Отдел по работе с учебными материалами,EDU,NPZ,administrative_unit
+HSE,Отдел охраны труда и промышленной безопасности,ООТиПБ,NPZ,administrative_unit

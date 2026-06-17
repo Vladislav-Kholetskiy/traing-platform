@@ -1,0 +1,52 @@
+planned_user_id,employee_number,external_id,last_name,first_name,middle_name,status,business_position,org_external_id,org_path,org_runtime_name,note
+1,NPZ-ITR-HQ-001,npz-itr-hq-001,Соколов,Андрей,Викторович,ACTIVE,Генеральный директор,HQ,/department/npz/zavodoupravlenie,zavodoupravlenie,Single ITR chief at headquarters
+2,NPZ-ITR-PROD-001,npz-itr-prod-001,Егоров,Павел,Игоревич,ACTIVE,Начальник производства,PROD,/department/npz/production,production,Single ITR chief for production block
+3,NPZ-ITR-CCK-001,npz-itr-cck-001,Баранов,Олег,Николаевич,ACTIVE,Начальник комплекса каталитического крекинга,CCK,/department/npz/production/cck,cck,ITR chief for CCK complex
+4,NPZ-ITR-CMT-001,npz-itr-cmt-001,Захаров,Владимир,Петрович,ACTIVE,Начальник комплекса облагораживания моторных топлив,CMT,/department/npz/production/komt,komt,ITR chief for CMT complex
+5,NPZ-ITR-UKK-001,npz-itr-ukk-001,Морозов,Илья,Алексеевич,ACTIVE,Начальник установки каталитического крекинга,CCK-UKK,/department/npz/production/cck/ukk,ukk,ITR chief for installation
+6,NPZ-ITR-UPV-001,npz-itr-upv-001,Воробьев,Роман,Дмитриевич,ACTIVE,Начальник установки производства водорода,CCK-UPV,/department/npz/production/cck/upv,upv,ITR chief for installation
+7,NPZ-ITR-MTBEO-001,npz-itr-mtbeo-001,Павлов,Степан,Олегович,ACTIVE,Начальник установки производства МТБЭ и олигомеризата,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,ITR chief for installation
+8,NPZ-ITR-GOBKK-001,npz-itr-gobkk-001,Тихонов,Максим,Андреевич,ACTIVE,Начальник установки гидрооблагораживания бензина каталитического крекинга,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,ITR chief for installation
+9,NPZ-ITR-TAME-001,npz-itr-tame-001,Крылов,Евгений,Валерьевич,ACTIVE,Начальник установки производства ТАМЭ,CMT-TAME,/department/npz/production/komt/tame,tame,ITR chief for installation
+10,NPZ-EXP-EDU-001,npz-exp-edu-001,Лебедева,Марина,Сергеевна,ACTIVE,Специалист по учебным материалам,EDU,/department/npz/edu,edu,Single expert for learning materials department
+11,NPZ-ITR-HSE-001,npz-itr-hse-001,Фролова,Ирина,Владимировна,ACTIVE,Специалист по охране труда и промышленной безопасности,HSE,/department/npz/hse,hse,ITR specialist for HSE department
+12,NPZ-OP-UKK-001,npz-op-ukk-001,Смирнов,Алексей,Павлович,ACTIVE,Оператор технологической установки,CCK-UKK,/department/npz/production/cck/ukk,ukk,Installation operator
+13,NPZ-OP-UKK-002,npz-op-ukk-002,Попов,Никита,Романович,ACTIVE,Оператор технологической установки,CCK-UKK,/department/npz/production/cck/ukk,ukk,Installation operator
+14,NPZ-OP-UKK-003,npz-op-ukk-003,Иванов,Даниил,Сергеевич,ACTIVE,Оператор технологической установки,CCK-UKK,/department/npz/production/cck/ukk,ukk,Installation operator
+15,NPZ-OP-UKK-004,npz-op-ukk-004,Новиков,Егор,Андреевич,ACTIVE,Оператор технологической установки,CCK-UKK,/department/npz/production/cck/ukk,ukk,Installation operator
+16,NPZ-OP-UKK-005,npz-op-ukk-005,Федоров,Игорь,Вячеславович,ACTIVE,Оператор технологической установки,CCK-UKK,/department/npz/production/cck/ukk,ukk,Installation operator
+17,NPZ-OP-UKK-006,npz-op-ukk-006,Васильев,Кирилл,Олегович,ACTIVE,Оператор технологической установки,CCK-UKK,/department/npz/production/cck/ukk,ukk,Installation operator
+18,NPZ-OP-UKK-007,npz-op-ukk-007,Орлов,Антон,Васильевич,ACTIVE,Оператор технологической установки,CCK-UKK,/department/npz/production/cck/ukk,ukk,Installation operator
+19,NPZ-OP-UKK-008,npz-op-ukk-008,Никитин,Тимур,Евгеньевич,ACTIVE,Оператор технологической установки,CCK-UKK,/department/npz/production/cck/ukk,ukk,Installation operator
+20,NPZ-OP-UPV-001,npz-op-upv-001,Макаров,Артем,Юрьевич,ACTIVE,Оператор технологической установки,CCK-UPV,/department/npz/production/cck/upv,upv,Installation operator
+21,NPZ-OP-UPV-002,npz-op-upv-002,Белов,Сергей,Ильич,ACTIVE,Оператор технологической установки,CCK-UPV,/department/npz/production/cck/upv,upv,Installation operator
+22,NPZ-OP-UPV-003,npz-op-upv-003,Комаров,Денис,Максимович,ACTIVE,Оператор технологической установки,CCK-UPV,/department/npz/production/cck/upv,upv,Installation operator
+23,NPZ-OP-UPV-004,npz-op-upv-004,Гаврилов,Петр,Алексеевич,ACTIVE,Оператор технологической установки,CCK-UPV,/department/npz/production/cck/upv,upv,Installation operator
+24,NPZ-OP-UPV-005,npz-op-upv-005,Киселев,Руслан,Игоревич,ACTIVE,Оператор технологической установки,CCK-UPV,/department/npz/production/cck/upv,upv,Installation operator
+25,NPZ-OP-UPV-006,npz-op-upv-006,Соловьев,Михаил,Викторович,ACTIVE,Оператор технологической установки,CCK-UPV,/department/npz/production/cck/upv,upv,Installation operator
+26,NPZ-OP-UPV-007,npz-op-upv-007,Поляков,Владислав,Павлович,ACTIVE,Оператор технологической установки,CCK-UPV,/department/npz/production/cck/upv,upv,Installation operator
+27,NPZ-OP-UPV-008,npz-op-upv-008,Козлов,Григорий,Сергеевич,ACTIVE,Оператор технологической установки,CCK-UPV,/department/npz/production/cck/upv,upv,Installation operator
+28,NPZ-OP-MTBEO-001,npz-op-mtbeo-001,Тарасов,Александр,Олегович,ACTIVE,Оператор технологической установки,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,Installation operator
+29,NPZ-OP-MTBEO-002,npz-op-mtbeo-002,Семенов,Дмитрий,Петрович,ACTIVE,Оператор технологической установки,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,Installation operator
+30,NPZ-OP-MTBEO-003,npz-op-mtbeo-003,Жуков,Илья,Викторович,ACTIVE,Оператор технологической установки,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,Installation operator
+31,NPZ-OP-MTBEO-004,npz-op-mtbeo-004,Наумов,Роман,Андреевич,ACTIVE,Оператор технологической установки,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,Installation operator
+32,NPZ-OP-MTBEO-005,npz-op-mtbeo-005,Алексеев,Степан,Игоревич,ACTIVE,Оператор технологической установки,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,Installation operator
+33,NPZ-OP-MTBEO-006,npz-op-mtbeo-006,Громов,Павел,Юрьевич,ACTIVE,Оператор технологической установки,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,Installation operator
+34,NPZ-OP-MTBEO-007,npz-op-mtbeo-007,Медведев,Константин,Николаевич,ACTIVE,Оператор технологической установки,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,Installation operator
+35,NPZ-OP-MTBEO-008,npz-op-mtbeo-008,Титов,Николай,Сергеевич,ACTIVE,Оператор технологической установки,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,Installation operator
+36,NPZ-OP-GOBKK-001,npz-op-gobkk-001,Карпов,Арсений,Васильевич,ACTIVE,Оператор технологической установки,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,Installation operator
+37,NPZ-OP-GOBKK-002,npz-op-gobkk-002,Калинин,Денис,Алексеевич,ACTIVE,Оператор технологической установки,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,Installation operator
+38,NPZ-OP-GOBKK-003,npz-op-gobkk-003,Рябов,Леонид,Павлович,ACTIVE,Оператор технологической установки,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,Installation operator
+39,NPZ-OP-GOBKK-004,npz-op-gobkk-004,Зуев,Ильдар,Романович,ACTIVE,Оператор технологической установки,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,Installation operator
+40,NPZ-OP-GOBKK-005,npz-op-gobkk-005,Пономарев,Виталий,Дмитриевич,ACTIVE,Оператор технологической установки,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,Installation operator
+41,NPZ-OP-GOBKK-006,npz-op-gobkk-006,Гусев,Ярослав,Игоревич,ACTIVE,Оператор технологической установки,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,Installation operator
+42,NPZ-OP-GOBKK-007,npz-op-gobkk-007,Дорофеев,Артур,Сергеевич,ACTIVE,Оператор технологической установки,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,Installation operator
+43,NPZ-OP-GOBKK-008,npz-op-gobkk-008,Лазарев,Матвей,Олегович,ACTIVE,Оператор технологической установки,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,Installation operator
+44,NPZ-OP-TAME-001,npz-op-tame-001,Шаров,Виктор,Андреевич,ACTIVE,Оператор технологической установки,CMT-TAME,/department/npz/production/komt/tame,tame,Installation operator
+45,NPZ-OP-TAME-002,npz-op-tame-002,Ефимов,Марат,Павлович,ACTIVE,Оператор технологической установки,CMT-TAME,/department/npz/production/komt/tame,tame,Installation operator
+46,NPZ-OP-TAME-003,npz-op-tame-003,Абрамов,Иван,Дмитриевич,ACTIVE,Оператор технологической установки,CMT-TAME,/department/npz/production/komt/tame,tame,Installation operator
+47,NPZ-OP-TAME-004,npz-op-tame-004,Быков,Станислав,Николаевич,ACTIVE,Оператор технологической установки,CMT-TAME,/department/npz/production/komt/tame,tame,Installation operator
+48,NPZ-OP-TAME-005,npz-op-tame-005,Фомин,Рустам,Сергеевич,ACTIVE,Оператор технологической установки,CMT-TAME,/department/npz/production/komt/tame,tame,Installation operator
+49,NPZ-OP-TAME-006,npz-op-tame-006,Савельев,Артемий,Игоревич,ACTIVE,Оператор технологической установки,CMT-TAME,/department/npz/production/komt/tame,tame,Installation operator
+50,NPZ-OP-TAME-007,npz-op-tame-007,Яковлев,Глеб,Владимирович,ACTIVE,Оператор технологической установки,CMT-TAME,/department/npz/production/komt/tame,tame,Installation operator
+51,NPZ-OP-TAME-008,npz-op-tame-008,Давыдов,Богдан,Олегович,ACTIVE,Оператор технологической установки,CMT-TAME,/department/npz/production/komt/tame,tame,Installation operator

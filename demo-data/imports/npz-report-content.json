@@ -1,0 +1,3180 @@
+{
+  "sourceDocument": "tmp/npz-content.docx",
+  "summary": {
+    "courseCount": 3,
+    "topicCount": 12,
+    "materialCount": 12,
+    "testCount": 12,
+    "questionCount": 72
+  },
+  "courses": [
+    {
+      "code": "COURSE-IND-SAFETY",
+      "name": "Основы промышленной безопасности на НПЗ",
+      "description": "Курс знакомит работников нефтеперерабатывающего завода с основами промышленной безопасности. Он направлен на понимание типовых опасностей, обязанностей персонала, порядка действий при срабатывании аварийной сигнализации и профилактику нарушений. Цель курса — сформировать базовое представление о безопасной работе и предотвратить нарушения, приводящие к авариям.",
+      "sortOrder": 0,
+      "topics": [
+        {
+          "code": "TOPIC-IND-HAZARDS",
+          "name": "Опасные производственные факторы на НПЗ",
+          "description": "познакомить работников с основными опасными факторами на НПЗ (легковоспламеняющиеся жидкости, взрывоопасные пары, высокое давление и температура, вращающиеся механизмы), научить распознавать их и принимать профилактические меры.",
+          "sortOrder": 0,
+          "material": {
+            "code": "MAT-IND-HAZARDS",
+            "name": "Опасные производственные факторы на НПЗ",
+            "description": "познакомить работников с основными опасными факторами на НПЗ (легковоспламеняющиеся жидкости, взрывоопасные пары, высокое давление и температура, вращающиеся механизмы), научить распознавать их и принимать профилактические меры.",
+            "body": "На нефтеперерабатывающем заводе используются сырьё и продукты с высокой температурой и давлением. Легковоспламеняющиеся жидкости и пары образуют взрывоопасные смеси; утечки могут привести к пожару или взрыву. Установки содержат вращающиеся механизмы и движущиеся части, которые могут травмировать. К основным факторам опасности относятся:\n\nХимическая опасность: пары бензинов, газов или серасодержащих соединений, которые могут образовать взрывоопасную или токсичную среду. Работник должен регулярно проверять герметичность трубопроводов, использовать газоанализаторы и немедленно сообщать о запахе газа.\n\nФизическая опасность: высокие температуры и давление в аппаратах. Любая неисправность трубопровода может привести к выбросу горячих веществ. Перед работой следует убедиться в исправности арматуры, ограждений и средств контроля.\n\nМеханическая опасность: вращающиеся валы, насосы и компрессоры. Нельзя работать в свободной одежде, следует использовать каски и очки; зона действия механизмов должна быть ограждена.\n\nЭлектроопасность: статическое электричество и искрение. Взрывоопасные зоны должны иметь специальное оборудование, исключающее искрообразование; следует использовать заземление и антистатическую обувь.\n\nКлючевые выводы: 1. НПЗ — это предприятие повышенной опасности; главные факторы риска — пожар, взрыв, токсические выбросы и травмирование. 2. До начала работы необходимо осмотреть оборудование, устранить утечки и убедиться в исправности сигнализации. 3. Работник обязан соблюдать зоны безопасности, пользоваться средствами индивидуальной защиты (СИЗ) и сообщать руководителю обо всех замеченных неисправностях.\n\nРекомендуемые видео:\n- «А1. Основы промышленной безопасности»\n  Ссылка: https://www.youtube.com/watch?v=ZyBtjQwyO7A\n  Источник: Первая Промышленная Академия\n  Почему подходит: Видео помогает подготовиться к аттестации по промышленной безопасности и рассматривает основные опасности НПЗ; в описании указано, что ролик полезен специалистам, работающим в области промышленной безопасности[4].\n- «Промышленная безопасность. Опасные факторы и защита»\n  Ссылка: https://rutube.ru/video/XXXXXXXX/\n  Источник: Учебный центр по охране труда (промбезопасность)\n  Почему подходит: Видеолекция разъясняет, какие факторы на производстве являются опасными и какие средства применяются для защиты; подходит для вводного инструктажа.",
+            "materialType": "TEXT",
+            "sortOrder": 0,
+            "videoReferences": [
+              {
+                "title": "«А1. Основы промышленной безопасности»",
+                "url": "https://www.youtube.com/watch?v=ZyBtjQwyO7A",
+                "source": "Первая Промышленная Академия",
+                "why": "Видео помогает подготовиться к аттестации по промышленной безопасности и рассматривает основные опасности НПЗ; в описании указано, что ролик полезен специалистам, работающим в области промышленной безопасности[4]."
+              },
+              {
+                "title": "«Промышленная безопасность. Опасные факторы и защита»",
+                "url": "https://rutube.ru/video/XXXXXXXX/",
+                "source": "Учебный центр по охране труда (промбезопасность)",
+                "why": "Видеолекция разъясняет, какие факторы на производстве являются опасными и какие средства применяются для защиты; подходит для вводного инструктажа."
+              }
+            ]
+          },
+          "test": {
+            "code": "TEST-IND-HAZARDS",
+            "name": "Опасные факторы на НПЗ",
+            "description": "Тест по теме: Опасные производственные факторы на НПЗ",
+            "testType": "CONTROL",
+            "thresholdPercent": 80,
+            "scoringPolicyCode": "DEFAULT",
+            "sortOrder": 0,
+            "assignAsActiveFinal": true,
+            "questions": [
+              {
+                "code": "Q-IND-HAZARDS-01",
+                "body": "Какой фактор относится к химической опасности на НПЗ?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 0,
+                "explanation": "Пары топлива создают взрывоопасную смесь и относятся к химической опасности.",
+                "options": [
+                  {
+                    "code": "OPT-IND-HAZARDS-01-A",
+                    "body": "Вращающийся вал насоса",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-01-B",
+                    "body": "Высокая температура котла",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-01-C",
+                    "body": "Выброс паров легковоспламеняющегося топлива",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-01-D",
+                    "body": "Повышенный уровень шума",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-HAZARDS-02",
+                "body": "Какие меры следует принять, чтобы уменьшить риск пожара?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 1,
+                "explanation": "Проверка оборудования и использование искробезопасного инструмента снижают риск; снятие каски и закрытие вентиляции создают дополнительные опасности.",
+                "options": [
+                  {
+                    "code": "OPT-IND-HAZARDS-02-A",
+                    "body": "Проверить герметичность соединений",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-02-B",
+                    "body": "Снять каску для удобства",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-02-C",
+                    "body": "Пользоваться искробезопасным инструментом",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-02-D",
+                    "body": "Накрыть вентиляционные отверстия",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-HAZARDS-03",
+                "body": "Что должен сделать работник при обнаружении утечки газа?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 2,
+                "explanation": "Немедленное сообщение и остановка работ предотвращают аварийную ситуацию.",
+                "options": [
+                  {
+                    "code": "OPT-IND-HAZARDS-03-A",
+                    "body": "Игнорировать, если запах слабый",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-03-B",
+                    "body": "Сообщить руководителю и прекратить работу",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-03-C",
+                    "body": "Включить дополнительную вентиляцию и продолжить работу",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-03-D",
+                    "body": "Прикрыть утечку тряпкой",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-HAZARDS-04",
+                "body": "Какие факторы могут привести к взрыву?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 3,
+                "explanation": "Взрыв может произойти при сочетании горючей среды и источника зажигания; герметичность снижает риск.",
+                "options": [
+                  {
+                    "code": "OPT-IND-HAZARDS-04-A",
+                    "body": "Наличие легковоспламеняющихся паров",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-04-B",
+                    "body": "Искра от инструмента",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-04-C",
+                    "body": "Герметичность оборудования",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-04-D",
+                    "body": "Статическое электричество",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-HAZARDS-05",
+                "body": "Для чего используется заземление оборудования в взрывоопасных зонах?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 4,
+                "explanation": "Заземление предотвращает накопление заряда и искрообразование.",
+                "options": [
+                  {
+                    "code": "OPT-IND-HAZARDS-05-A",
+                    "body": "Для повышения скорости работы",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-05-B",
+                    "body": "Для предотвращения статического электричества",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-05-C",
+                    "body": "Для охлаждения оборудования",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-05-D",
+                    "body": "Для уменьшения шума",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-HAZARDS-06",
+                "body": "Какие признаки указывают на механическую опасность?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 5,
+                "explanation": "Открытые подвижные части и повышенный шум требуют повышенного внимания; закрытые кожухи и знаки уменьшают риск.",
+                "options": [
+                  {
+                    "code": "OPT-IND-HAZARDS-06-A",
+                    "body": "Незащищённые подвижные части",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-06-B",
+                    "body": "Сильный шум от оборудования",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-06-C",
+                    "body": "Наличие предупредительных знаков",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-HAZARDS-06-D",
+                    "body": "Плотно закрытые кожухи",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "code": "TOPIC-IND-RESPONSIBILITIES",
+          "name": "Обязанности работника при выполнении производственных инструкций",
+          "description": "уточнить, какие обязанности несёт работник НПЗ в рамках промышленной безопасности: соблюдение инструкций, использование СИЗ, прохождение обучения и своевременное сообщение об опасностях.",
+          "sortOrder": 1,
+          "material": {
+            "code": "MAT-IND-RESPONSIBILITIES",
+            "name": "Обязанности работника при выполнении производственных инструкций",
+            "description": "уточнить, какие обязанности несёт работник НПЗ в рамках промышленной безопасности: соблюдение инструкций, использование СИЗ, прохождение обучения и своевременное сообщение об опасностях.",
+            "body": "Каждый сотрудник обязан выполнять технологические инструкции и требования промышленной безопасности. Перед допуском к работе он проходит вводный и целевой инструктаж, подтверждает знание опасных факторов и подписывает документы о готовности. В обязанности входит:\n\nстрогое соблюдение регламентов и нарядов-допусков; отклонения допускаются только по указанию руководителя работ;\n\nпостоянное использование назначенных СИЗ (каски, спецодежда, очки, перчатки, респираторы);\n\nконтроль состояния оборудования на рабочем месте и немедленное сообщение о любых неполадках;\n\nотказ от выполнения работы при отсутствии допуска или при выявлении угрозы жизни и здоровью;\n\nведение записи в журналах инструктажей и нарядов.\n\nКлючевые выводы: 1. Работник несёт персональную ответственность за соблюдение инструкций и обязан использовать СИЗ. 2. Все отклонения от норм следует согласовывать с руководителем и фиксировать в документации. 3. Обнаружив неполадку, работник обязан прекратить работу и сообщить руководителю.\n\nРекомендуемые видео:\n- «Роль и обязанности работника по охране труда»\n  Ссылка: https://rutube.ru/video/YYYYYYYY/\n  Источник: Учебный центр «Охрана труда»\n  Почему подходит: Видео объясняет, какие обязанности имеет работник в области охраны труда и промышленной безопасности, подчёркивает важность использования СИЗ и соблюдения инструкций.\n- «Инструктаж по охране труда. Обязанности и ответственность»\n  Ссылка: https://www.youtube.com/watch?v=ZZZZZZZZ\n  Источник: Смыслотека\n  Почему подходит: Видеоинструктаж в формате видеоскрайбинга рассказывает о правах и обязанностях работника, разбирает типичные ошибки и последствия.",
+            "materialType": "TEXT",
+            "sortOrder": 0,
+            "videoReferences": [
+              {
+                "title": "«Роль и обязанности работника по охране труда»",
+                "url": "https://rutube.ru/video/YYYYYYYY/",
+                "source": "Учебный центр «Охрана труда»",
+                "why": "Видео объясняет, какие обязанности имеет работник в области охраны труда и промышленной безопасности, подчёркивает важность использования СИЗ и соблюдения инструкций."
+              },
+              {
+                "title": "«Инструктаж по охране труда. Обязанности и ответственность»",
+                "url": "https://www.youtube.com/watch?v=ZZZZZZZZ",
+                "source": "Смыслотека",
+                "why": "Видеоинструктаж в формате видеоскрайбинга рассказывает о правах и обязанностях работника, разбирает типичные ошибки и последствия."
+              }
+            ]
+          },
+          "test": {
+            "code": "TEST-IND-RESPONSIBILITIES",
+            "name": "Обязанности работника",
+            "description": "Тест по теме: Обязанности работника при выполнении производственных инструкций",
+            "testType": "CONTROL",
+            "thresholdPercent": 80,
+            "scoringPolicyCode": "DEFAULT",
+            "sortOrder": 0,
+            "assignAsActiveFinal": true,
+            "questions": [
+              {
+                "code": "Q-IND-RESPONSIBILITIES-01",
+                "body": "Что обязан сделать работник перед началом смены?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 0,
+                "explanation": "Перед работой необходимо пройти инструктаж и оформить допуск.",
+                "options": [
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-01-A",
+                    "body": "Начать работу без инструктажа",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-01-B",
+                    "body": "Пройти соответствующие инструктажи и подтвердить их документально",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-01-C",
+                    "body": "Запросить выходной",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-01-D",
+                    "body": "Поменяться сменами без уведомления",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-RESPONSIBILITIES-02",
+                "body": "Какие действия относятся к обязанностям работника?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 1,
+                "explanation": "Использование СИЗ и сообщение об опасностях являются обязанностями; самовольные изменения и сокрытие нарушений запрещены.",
+                "options": [
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-02-A",
+                    "body": "Использовать СИЗ",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-02-B",
+                    "body": "Самовольно менять технологические режимы",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-02-C",
+                    "body": "Сообщать о неисправностях",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-02-D",
+                    "body": "Скрывать мелкие нарушения",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-RESPONSIBILITIES-03",
+                "body": "Кому следует сообщить о выявленной утечке или неисправности?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 2,
+                "explanation": "Порядок требует уведомлять руководителя или дежурного диспетчера.",
+                "options": [
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-03-A",
+                    "body": "Только коллегам",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-03-B",
+                    "body": "Непосредственному руководителю или диспетчеру",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-03-C",
+                    "body": "Никому, если неисправность незначительна",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-03-D",
+                    "body": "Любому знакомому работнику",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-RESPONSIBILITIES-04",
+                "body": "При каких условиях работник может отказаться от выполнения задания?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 3,
+                "explanation": "Законодательно работник вправе отказаться от опасной работы без допуска; личное несогласие не является причиной.",
+                "options": [
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-04-A",
+                    "body": "При отсутствии наряда-допуска",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-04-B",
+                    "body": "При угрозе жизни и здоровью",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-04-C",
+                    "body": "По собственному желанию",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-04-D",
+                    "body": "При несогласии с руководителем",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-RESPONSIBILITIES-05",
+                "body": "Что следует сделать с СИЗ после обнаружения дефекта?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 4,
+                "explanation": "Использование повреждённого СИЗ запрещено; его необходимо заменить и сообщить.",
+                "options": [
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-05-A",
+                    "body": "Продолжить использовать",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-05-B",
+                    "body": "Самостоятельно отремонтировать и продолжить",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-05-C",
+                    "body": "Остановить работу, заменить или отдать на проверку",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-05-D",
+                    "body": "Передать коллеге",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-RESPONSIBILITIES-06",
+                "body": "Какие документы подтверждают прохождение инструктажа?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 5,
+                "explanation": "Журнал инструктажей и ведомость содержат подписи работников; наряд-допуск фиксирует конкретную работу.",
+                "options": [
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-06-A",
+                    "body": "Наряд-допуск",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-06-B",
+                    "body": "Запись в журнале инструктажей",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-06-C",
+                    "body": "Служебная записка",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-RESPONSIBILITIES-06-D",
+                    "body": "Подпись в ведомости",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "code": "TOPIC-IND-ALARM",
+          "name": "Порядок действий при аварийной сигнализации",
+          "description": "объяснить порядок действий при срабатывании аварийных сигналов: остановка работы, защита персонала, оповещение руководства и эвакуация.",
+          "sortOrder": 2,
+          "material": {
+            "code": "MAT-IND-ALARM",
+            "name": "Порядок действий при аварийной сигнализации",
+            "description": "объяснить порядок действий при срабатывании аварийных сигналов: остановка работы, защита персонала, оповещение руководства и эвакуация.",
+            "body": "Аварийная сигнализация (звуковая, световая, громкоговорящая) подаётся при возникновении опасной ситуации — утечке, пожаре, превышении давления или температуры. Работник должен знать виды сигналов и заранее изучить маршрут эвакуации. Общий порядок действий:\n\nПрекратить работу. Немедленно остановить опасные операции, отключить оборудование, зафиксировать клапаны и не включать механизмы снова.\n\nОповестить коллег и руководство. Использовать внутренние линии связи, сигнализацию или радиостанцию. Сообщить о характере опасности и месте аварии.\n\nНадеть СИЗ и покинуть опасную зону. Использовать каску, противогаз, защитные очки; направиться к ближайшему выходу согласно плану эвакуации.\n\nСледовать инструкциям руководителя и аварийных служб. Не предпринимать непредусмотренных действий; дождаться дальнейших указаний в безопасном месте.\n\nКлючевые выводы: 1. Аварийные сигналы требуют мгновенной реакции: остановки работы, оповещения и эвакуации. 2. Работник должен заранее знать сигналы, расположение выходов и план эвакуации. 3. Оставаться на рабочем месте или скрывать сигнализацию строго запрещено.\n\nРекомендуемые видео:\n- «Инструктаж по охране труда: аварийная сигнализация и эвакуация»\n  Ссылка: https://www.youtube.com/watch?v=XXXXXXXX\n  Источник: Смыслотека\n  Почему подходит: Видеоролик в формате видеоскрайбинга объясняет порядок действий при срабатывании сигнализации: остановка работы, сообщение и эвакуация.\n- «Памятка МЧС: как действовать при сигнале тревоги»\n  Ссылка: https://mchs.gov.ru/video/alarm-action\n  Источник: МЧС России\n  Почему подходит: На сайте МЧС опубликован ролик с памяткой по действиям при тревожном сигнале и эвакуации; подходит для всех работников ОПО.",
+            "materialType": "TEXT",
+            "sortOrder": 0,
+            "videoReferences": [
+              {
+                "title": "«Инструктаж по охране труда: аварийная сигнализация и эвакуация»",
+                "url": "https://www.youtube.com/watch?v=XXXXXXXX",
+                "source": "Смыслотека",
+                "why": "Видеоролик в формате видеоскрайбинга объясняет порядок действий при срабатывании сигнализации: остановка работы, сообщение и эвакуация."
+              },
+              {
+                "title": "«Памятка МЧС: как действовать при сигнале тревоги»",
+                "url": "https://mchs.gov.ru/video/alarm-action",
+                "source": "МЧС России",
+                "why": "На сайте МЧС опубликован ролик с памяткой по действиям при тревожном сигнале и эвакуации; подходит для всех работников ОПО."
+              }
+            ]
+          },
+          "test": {
+            "code": "TEST-IND-ALARM",
+            "name": "Действия при аварийной сигнализации",
+            "description": "Тест по теме: Порядок действий при аварийной сигнализации",
+            "testType": "CONTROL",
+            "thresholdPercent": 80,
+            "scoringPolicyCode": "DEFAULT",
+            "sortOrder": 0,
+            "assignAsActiveFinal": true,
+            "questions": [
+              {
+                "code": "Q-IND-ALARM-01",
+                "body": "Первая реакция работника при получении аварийного сигнала?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 0,
+                "explanation": "При аварийном сигнале нужно остановить операции и обеспечить безопасность.",
+                "options": [
+                  {
+                    "code": "OPT-IND-ALARM-01-A",
+                    "body": "Продолжить работу до окончания смены",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-01-B",
+                    "body": "Немедленно прекратить работу и отключить оборудование",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-01-C",
+                    "body": "Позвонить домой",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-01-D",
+                    "body": "Осмотреть оборудование без остановки",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-ALARM-02",
+                "body": "Что следует сделать после остановки работы?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 1,
+                "explanation": "Оповещение и эвакуация обязательны; сокрытие происшествия недопустимо.",
+                "options": [
+                  {
+                    "code": "OPT-IND-ALARM-02-A",
+                    "body": "Сообщить руководителю",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-02-B",
+                    "body": "Уведомить коллег",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-02-C",
+                    "body": "Надеть СИЗ и покинуть опасную зону",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-02-D",
+                    "body": "Скрыть происшествие",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-ALARM-03",
+                "body": "Кто даёт дальнейшие указания после эвакуации?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 2,
+                "explanation": "Командование осуществляет руководитель работ или аварийные службы.",
+                "options": [
+                  {
+                    "code": "OPT-IND-ALARM-03-A",
+                    "body": "Любой коллега",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-03-B",
+                    "body": "Руководитель работ или представитель аварийных служб",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-03-C",
+                    "body": "Незнакомый посетитель",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-03-D",
+                    "body": "Нет указаний — можно вернуться",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-ALARM-04",
+                "body": "Какие СИЗ следует использовать при эвакуации?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 3,
+                "explanation": "При эвакуации главное — защита головы и органов дыхания; перчатки вторичны.",
+                "options": [
+                  {
+                    "code": "OPT-IND-ALARM-04-A",
+                    "body": "Каску",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-04-B",
+                    "body": "Противогаз или респиратор",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-04-C",
+                    "body": "Противошумные наушники",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-04-D",
+                    "body": "Перчатки",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-ALARM-05",
+                "body": "Что делать, если неизвестен маршрут эвакуации?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 4,
+                "explanation": "Следует ориентироваться на планы эвакуации и указатели; оставаться нельзя.",
+                "options": [
+                  {
+                    "code": "OPT-IND-ALARM-05-A",
+                    "body": "Искать выход самостоятельно без плана",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-05-B",
+                    "body": "Следовать за коллегами, знающими маршрут, и ориентироваться по указателям",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-05-C",
+                    "body": "Оставаться на месте",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-05-D",
+                    "body": "Вернуться за инструкцией",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-ALARM-06",
+                "body": "При каких условиях разрешается вернуться на рабочее место?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 5,
+                "explanation": "Возвращаться можно только после официальной отмены тревоги, разрешения руководителя и проверки безопасности.",
+                "options": [
+                  {
+                    "code": "OPT-IND-ALARM-06-A",
+                    "body": "После отмены тревоги",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-06-B",
+                    "body": "После разрешения руководителя",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-06-C",
+                    "body": "Сразу после отключения сигнала",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-ALARM-06-D",
+                    "body": "После проверки аварийными службами",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "code": "TOPIC-IND-VIOLATIONS",
+          "name": "Типовые нарушения требований безопасности",
+          "description": "показать распространённые нарушения требований безопасности и предотвратить их путём правильного поведения.",
+          "sortOrder": 3,
+          "material": {
+            "code": "MAT-IND-VIOLATIONS",
+            "name": "Типовые нарушения требований безопасности",
+            "description": "показать распространённые нарушения требований безопасности и предотвратить их путём правильного поведения.",
+            "body": "На НПЗ нарушения часто связаны с попытками упростить работу или сэкономить время. К типовым нарушениям относятся:\n\nИгнорирование СИЗ. Работники снимают каски, перчатки или не используют респираторы, что приводит к травмам и отравлениям.\n\nОбход защит и блокировок. Снятие защитных кожухов, отключение предохранительных устройств и байпас автоматических блокировок создают прямую угрозу аварии.\n\nНеавторизованные работы. Самовольный ремонт или изменение технологического режима без наряда-допуска нарушает технологическую дисциплину.\n\nНесвоевременное сообщение об опасностях. Сотрудники замалчивают утечки или неисправности, опасаясь наказания.\n\nДля предотвращения нарушений необходимо проводить регулярные инструктажи, контролировать соблюдение требований, поощрять культуру безопасности и привлекать персонал к ответственности.\n\nКлючевые выводы: 1. Нарушения требований безопасности являются главной причиной аварий; ответственность несёт каждый работник. 2. СИЗ, защитные устройства и наряд-допуск — обязательны; нельзя обходить или игнорировать их. 3. При выявлении нарушения нужно прекратить работу и сообщить руководству; система не наказывает за своевременное сообщение, а предотвращает инциденты.\n\nРекомендуемые видео:\n- «Типовые нарушения промышленной безопасности и их последствия»\n  Ссылка: https://www.youtube.com/watch?v=WWWWWWWW\n  Источник: Учебный канал «Промышленная безопасность»\n  Почему подходит: В ролике рассматриваются распространённые нарушения (отказ от СИЗ, обход блокировок) и объясняется, почему они приводят к авариям.\n- «Промышленная безопасность: ошибки работников»\n  Ссылка: https://rutube.ru/video/AAAAAAA/\n  Источник: Институт охраны труда\n  Почему подходит: Видео содержит анализ ошибок, допущенных работниками на производстве, и советы по их предотвращению.",
+            "materialType": "TEXT",
+            "sortOrder": 0,
+            "videoReferences": [
+              {
+                "title": "«Типовые нарушения промышленной безопасности и их последствия»",
+                "url": "https://www.youtube.com/watch?v=WWWWWWWW",
+                "source": "Учебный канал «Промышленная безопасность»",
+                "why": "В ролике рассматриваются распространённые нарушения (отказ от СИЗ, обход блокировок) и объясняется, почему они приводят к авариям."
+              },
+              {
+                "title": "«Промышленная безопасность: ошибки работников»",
+                "url": "https://rutube.ru/video/AAAAAAA/",
+                "source": "Институт охраны труда",
+                "why": "Видео содержит анализ ошибок, допущенных работниками на производстве, и советы по их предотвращению."
+              }
+            ]
+          },
+          "test": {
+            "code": "TEST-IND-VIOLATIONS",
+            "name": "Типовые нарушения и правильные действия",
+            "description": "Тест по теме: Типовые нарушения требований безопасности",
+            "testType": "CONTROL",
+            "thresholdPercent": 80,
+            "scoringPolicyCode": "DEFAULT",
+            "sortOrder": 0,
+            "assignAsActiveFinal": true,
+            "questions": [
+              {
+                "code": "Q-IND-VIOLATIONS-01",
+                "body": "Какое действие является нарушением?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 0,
+                "explanation": "Снятие защитного кожуха запрещено.",
+                "options": [
+                  {
+                    "code": "OPT-IND-VIOLATIONS-01-A",
+                    "body": "Снятие защитного кожуха вращающегося механизма",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-01-B",
+                    "body": "Использование каски",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-01-C",
+                    "body": "Проверка газоанализатором",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-01-D",
+                    "body": "Сообщение о неисправности",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-VIOLATIONS-02",
+                "body": "Почему опасно обходить автоматические блокировки?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 1,
+                "explanation": "Блокировки предотвращают опасные ситуации; их отключение приводит к авариям.",
+                "options": [
+                  {
+                    "code": "OPT-IND-VIOLATIONS-02-A",
+                    "body": "Можно ускорить процесс",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-02-B",
+                    "body": "Устраняется важный элемент защиты",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-02-C",
+                    "body": "Увеличивается риск аварии",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-02-D",
+                    "body": "Это снижает контроль руководителя",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-VIOLATIONS-03",
+                "body": "Что должен сделать работник, обнаруживший коллегу без СИЗ?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 2,
+                "explanation": "Следует предупредить коллегу и сообщить руководителю.",
+                "options": [
+                  {
+                    "code": "OPT-IND-VIOLATIONS-03-A",
+                    "body": "Не обращать внимания",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-03-B",
+                    "body": "Сфотографировать и распространить в сети",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-03-C",
+                    "body": "Сделать замечание и проинформировать руководителя",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-03-D",
+                    "body": "Сам снять СИЗ",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-VIOLATIONS-04",
+                "body": "Каким образом можно предотвратить нарушение требований?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 3,
+                "explanation": "Обучение и культура безопасности снижают нарушения; игнорирование и сокрытие недопустимы.",
+                "options": [
+                  {
+                    "code": "OPT-IND-VIOLATIONS-04-A",
+                    "body": "Регулярно проводить инструктажи",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-04-B",
+                    "body": "Игнорировать мелкие нарушения",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-04-C",
+                    "body": "Поощрять культуру безопасности",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-04-D",
+                    "body": "Закрыть доступ к журналам инструктажей",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-VIOLATIONS-05",
+                "body": "Что относится к неавторизованным работам?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 4,
+                "explanation": "Изменение технологического режима без допуска запрещено.",
+                "options": [
+                  {
+                    "code": "OPT-IND-VIOLATIONS-05-A",
+                    "body": "Выполнение ремонта по наряду-допуску",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-05-B",
+                    "body": "Самовольная регулировка давления",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-05-C",
+                    "body": "Замена прокладки под руководством мастера",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-05-D",
+                    "body": "Контроль параметров согласно инструкции",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-IND-VIOLATIONS-06",
+                "body": "Какой должна быть реакция на нарушение?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 5,
+                "explanation": "Нужно остановить опасную работу и сообщить; самосуд не допускается.",
+                "options": [
+                  {
+                    "code": "OPT-IND-VIOLATIONS-06-A",
+                    "body": "Проигнорировать",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-06-B",
+                    "body": "Сообщить руководителю",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-06-C",
+                    "body": "Приостановить работу",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-IND-VIOLATIONS-06-D",
+                    "body": "Наказать нарушителя самостоятельно",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "COURSE-PROC-SAFETY",
+      "name": "Безопасное выполнение работ на технологических установках",
+      "description": "Курс раскрывает правила подготовки рабочего места, правильного применения средств индивидуальной защиты, требования к газоопасным работам и порядок действий при обнаружении утечек или разливов. Цель курса — повысить безопасность выполнения технологических операций и снизить вероятность инцидентов.",
+      "sortOrder": 1,
+      "topics": [
+        {
+          "code": "TOPIC-PROC-PREP",
+          "name": "Подготовка рабочего места",
+          "description": "научить работников правильно подготавливать рабочее место перед началом технологических операций: удостовериться в безопасности оборудования, наличии допусков и средств защиты.",
+          "sortOrder": 0,
+          "material": {
+            "code": "MAT-PROC-PREP",
+            "name": "Подготовка рабочего места",
+            "description": "научить работников правильно подготавливать рабочее место перед началом технологических операций: удостовериться в безопасности оборудования, наличии допусков и средств защиты.",
+            "body": "Подготовка рабочего места начинается с анализа задания и требований. Основные шаги:\n\nПроверка документации. Убедиться, что на работу оформлен наряд-допуск, где указаны условия безопасного выполнения и ответственное лицо.\n\nОсмотр площадки. Очистить рабочую зону от посторонних предметов, убедиться в наличии свободного доступа к эвакуационным путям и огнетушителям.\n\nИзоляция оборудования. Перекрыть подачу продуктов, отключить источники энергии, установить заглушки и предохранительные устройства.\n\nПроверка инструмента и СИЗ. Использовать искробезопасный инструмент, проверить исправность лестниц, страховочных линий; подготовить каски, перчатки, очки, противогазы.\n\nИнструктаж. Провести целевой инструктаж со всеми участниками, убедиться, что каждый понимает последовательность операций и зоны ответственности.\n\nКлючевые выводы: 1. Без должной подготовки рабочего места любое выполнение работ опасно; важны документы, осмотр и изоляция. 2. Наряд-допуск гарантирует, что работа согласована и безопасна. 3. Инструктаж и проверка оборудования предотвращают ошибки и несчастные случаи.\n\nРекомендуемые видео:\n- «Подготовка рабочего места на опасном производстве»\n  Ссылка: https://www.youtube.com/watch?v=BBBBBBB\n  Источник: Учебный центр «Промбезопасность»\n  Почему подходит: Видео показывает порядок подготовки рабочего места: оформление допуска, изоляция, проверка инструментов; соответствует теме.\n- «Наряд-допуск и подготовка к работам на НПЗ»\n  Ссылка: https://rutube.ru/video/CCCCCCC/\n  Источник: Институт безопасности труда\n  Почему подходит: В ролике рассматривается процесс получения наряда-допуска и проверки площадки перед началом работ.",
+            "materialType": "TEXT",
+            "sortOrder": 0,
+            "videoReferences": [
+              {
+                "title": "«Подготовка рабочего места на опасном производстве»",
+                "url": "https://www.youtube.com/watch?v=BBBBBBB",
+                "source": "Учебный центр «Промбезопасность»",
+                "why": "Видео показывает порядок подготовки рабочего места: оформление допуска, изоляция, проверка инструментов; соответствует теме."
+              },
+              {
+                "title": "«Наряд-допуск и подготовка к работам на НПЗ»",
+                "url": "https://rutube.ru/video/CCCCCCC/",
+                "source": "Институт безопасности труда",
+                "why": "В ролике рассматривается процесс получения наряда-допуска и проверки площадки перед началом работ."
+              }
+            ]
+          },
+          "test": {
+            "code": "TEST-PROC-PREP",
+            "name": "Подготовка рабочего места",
+            "description": "Тест по теме: Подготовка рабочего места",
+            "testType": "CONTROL",
+            "thresholdPercent": 80,
+            "scoringPolicyCode": "DEFAULT",
+            "sortOrder": 0,
+            "assignAsActiveFinal": true,
+            "questions": [
+              {
+                "code": "Q-PROC-PREP-01",
+                "body": "Для чего требуется наряд-допуск?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 0,
+                "explanation": "Наряд-допуск определяет условия безопасного выполнения работ.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-PREP-01-A",
+                    "body": "Для оформления отпуска",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-01-B",
+                    "body": "Для разрешения на выполнение работ с указанием мер безопасности",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-01-C",
+                    "body": "Для получения зарплаты",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-01-D",
+                    "body": "Для бронирования столовой",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-PREP-02",
+                "body": "Какие действия входят в подготовку рабочей площадки?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 1,
+                "explanation": "Подготовка включает очистку, изоляцию оборудования и проверку путей; сокрытие опасных зон запрещено.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-PREP-02-A",
+                    "body": "Очистка зоны от посторонних предметов",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-02-B",
+                    "body": "Отключение оборудования",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-02-C",
+                    "body": "Сокрытие опасных зон",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-02-D",
+                    "body": "Проверка эвакуационных путей",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-PREP-03",
+                "body": "Кто должен проводить целевой инструктаж перед началом работ?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 2,
+                "explanation": "Инструктаж проводит назначенный руководитель, несущий ответственность за безопасность.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-PREP-03-A",
+                    "body": "Любой работник",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-03-B",
+                    "body": "Руководитель работ или ответственный исполнитель",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-03-C",
+                    "body": "Посторонний человек",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-03-D",
+                    "body": "Инженер по снабжению",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-PREP-04",
+                "body": "Какие средства относятся к искробезопасному инструменту?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 3,
+                "explanation": "Искробезопасный инструмент изготовлен из цветных металлов (медь, бронза); стальной инструмент может образовать искру.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-PREP-04-A",
+                    "body": "Инструмент с бронзовыми насадками",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-04-B",
+                    "body": "Электроинструмент с удлинителем",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-04-C",
+                    "body": "Использование обычного стального молотка",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-04-D",
+                    "body": "Ручной инструмент из цветных металлов",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-PREP-05",
+                "body": "При отсутствии заглушек на трубопроводах…",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 4,
+                "explanation": "Изоляция коммуникаций (заглушки) обязательна для безопасности.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-PREP-05-A",
+                    "body": "Работа разрешена",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-05-B",
+                    "body": "Работа откладывается до установки заглушек",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-05-C",
+                    "body": "Можно закрыть трубы тканью",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-05-D",
+                    "body": "Работать только в перчатках",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-PREP-06",
+                "body": "Что нужно проверить в зоне работ перед допуском?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 5,
+                "explanation": "Наличие средств пожаротушения и свободных эвакуационных путей — обязательные условия; подписи и пропуск не влияют на подготовку зоны.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-PREP-06-A",
+                    "body": "Наличие огнетушителей",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-06-B",
+                    "body": "Подписи в журнале инструктажей",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-06-C",
+                    "body": "Пропуск в столовую",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-PREP-06-D",
+                    "body": "Свободные эвакуационные пути",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "code": "TOPIC-PROC-PPE",
+          "name": "Применение средств индивидуальной защиты",
+          "description": "закрепить знания о видах СИЗ, критериях их выбора и правильном использовании для предотвращения травм и поражения организма.",
+          "sortOrder": 1,
+          "material": {
+            "code": "MAT-PROC-PPE",
+            "name": "Применение средств индивидуальной защиты",
+            "description": "закрепить знания о видах СИЗ, критериях их выбора и правильном использовании для предотвращения травм и поражения организма.",
+            "body": "Средства индивидуальной защиты (СИЗ) предназначены для предотвращения травм и воздействия вредных факторов. На НПЗ применяются:\n\nКаски и защитные очки. Предохраняют голову и глаза от ударов, искр и мелких частиц. Каску следует носить застёгнутой, очки — с прозрачными стёклами без повреждений.\n\nЗащитная одежда и обувь. Комбинезоны из огнестойкой ткани и антистатическая обувь предотвращают ожоги и накопление статического заряда.\n\nПерчатки. Выбираются в зависимости от характера работ: термостойкие, химически стойкие, диэлектрические.\n\nРеспираторы и противогазы. Защищают органы дыхания от токсичных паров; фильтры подбираются по типу газа. Перед использованием следует проверить герметичность маски.\n\nПравильный выбор СИЗ основывается на оценке рисков. СИЗ должны быть исправны, соответствовать размеру и иметь сертификат. Их необходимо регулярно проверять и своевременно заменять.\n\nКлючевые выводы: 1. Разные виды работ требуют разных СИЗ: каска, очки, одежда, обувь, перчатки, респиратор. 2. СИЗ должны быть исправны и подобраны по размеру; перед применением проверяйте целостность. 3. Ношение СИЗ обязательно в зонах повышенной опасности; отказ от них — грубое нарушение.\n\nРекомендуемые видео:\n- «Средства индивидуальной защиты на производстве»\n  Ссылка: https://www.youtube.com/watch?v=DDDDDDD\n  Источник: Учебный центр «Охрана труда»\n  Почему подходит: Видеолекция рассказывает о видах СИЗ, правилах их выбора и использования, что соответствует теме.\n- «Как правильно выбрать и использовать СИЗ»\n  Ссылка: https://rutube.ru/video/EEEEEEE/\n  Источник: Специализированный образовательный портал\n  Почему подходит: Видео демонстрирует способы проверки исправности касок, перчаток и респираторов и объясняет, как выбирать СИЗ в зависимости от вида работ.",
+            "materialType": "TEXT",
+            "sortOrder": 0,
+            "videoReferences": [
+              {
+                "title": "«Средства индивидуальной защиты на производстве»",
+                "url": "https://www.youtube.com/watch?v=DDDDDDD",
+                "source": "Учебный центр «Охрана труда»",
+                "why": "Видеолекция рассказывает о видах СИЗ, правилах их выбора и использования, что соответствует теме."
+              },
+              {
+                "title": "«Как правильно выбрать и использовать СИЗ»",
+                "url": "https://rutube.ru/video/EEEEEEE/",
+                "source": "Специализированный образовательный портал",
+                "why": "Видео демонстрирует способы проверки исправности касок, перчаток и респираторов и объясняет, как выбирать СИЗ в зависимости от вида работ."
+              }
+            ]
+          },
+          "test": {
+            "code": "TEST-PROC-PPE",
+            "name": "Использование СИЗ",
+            "description": "Тест по теме: Применение средств индивидуальной защиты",
+            "testType": "CONTROL",
+            "thresholdPercent": 80,
+            "scoringPolicyCode": "DEFAULT",
+            "sortOrder": 0,
+            "assignAsActiveFinal": true,
+            "questions": [
+              {
+                "code": "Q-PROC-PPE-01",
+                "body": "Для чего необходима антистатическая обувь?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 0,
+                "explanation": "Антистатическая обувь предотвращает возникновение искры.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-PPE-01-A",
+                    "body": "Для увеличения роста",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-01-B",
+                    "body": "Для предотвращения накопления электрического заряда и искрения",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-01-C",
+                    "body": "Для защиты от холода",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-01-D",
+                    "body": "Для удобства",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-PPE-02",
+                "body": "Какие проверки следует выполнить перед использованием противогаза?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 1,
+                "explanation": "Герметичность, срок годности и правильный размер важны; снятие фильтра делает противогаз бесполезным.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-PPE-02-A",
+                    "body": "Проверить герметичность маски",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-02-B",
+                    "body": "Проверить срок годности фильтра",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-02-C",
+                    "body": "Снять фильтр для облегчения дыхания",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-02-D",
+                    "body": "Убедиться в правильном размере",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-PPE-03",
+                "body": "Какие перчатки нужны при работе с горячими поверхностями?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 2,
+                "explanation": "Для защиты от ожогов используются термостойкие перчатки.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-PPE-03-A",
+                    "body": "Химически стойкие",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-03-B",
+                    "body": "Термостойкие",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-03-C",
+                    "body": "Диэлектрические",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-03-D",
+                    "body": "Латексные",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-PPE-04",
+                "body": "Что относится к правильному использованию каски?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 3,
+                "explanation": "Каска должна быть целой и надёжно застёгнутой; снимание возможно только в безопасной зоне отдыха.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-PPE-04-A",
+                    "body": "Регулярно проверять целостность",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-04-B",
+                    "body": "Носить неплотно застёгнутой",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-04-C",
+                    "body": "Снимать в помещении для отдыха",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-04-D",
+                    "body": "Носить с застёгнутым ремнём",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-PPE-05",
+                "body": "Когда необходимо использовать защитные очки?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 4,
+                "explanation": "Защитные очки применяются при риске попадания частиц, искр или брызг.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-PPE-05-A",
+                    "body": "Только при сварочных работах",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-05-B",
+                    "body": "При любой опасности попадания частиц или брызг",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-05-C",
+                    "body": "Только в химических лабораториях",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-05-D",
+                    "body": "Никогда",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-PPE-06",
+                "body": "Какие обязанности связаны с учётом и хранением СИЗ?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 5,
+                "explanation": "СИЗ должны храниться правильно; неисправные нужно заменять; учёт ведётся в журнале.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-PPE-06-A",
+                    "body": "Хранить в сухом, чистом месте",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-06-B",
+                    "body": "Обменивать неисправные средства",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-06-C",
+                    "body": "Сдавать СИЗ домой",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-PPE-06-D",
+                    "body": "Отмечать выдачу и замену в журнале",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "code": "TOPIC-PROC-GASWORK",
+          "name": "Газоопасные работы и контроль воздушной среды",
+          "description": "ознакомить работников с особенностями газоопасных работ, требованиями к контролю воздушной среды и мерами предосторожности.",
+          "sortOrder": 2,
+          "material": {
+            "code": "MAT-PROC-GASWORK",
+            "name": "Газоопасные работы и контроль воздушной среды",
+            "description": "ознакомить работников с особенностями газоопасных работ, требованиями к контролю воздушной среды и мерами предосторожности.",
+            "body": "Газоопасные работы — это операции, при которых возможно образование взрывоопасной или токсичной газовой смеси (очистка резервуаров, вскрытие коммуникаций, ремонт на высоте). Перед выполнением работ следует:\n\nОпределить категорию работ. Газоопасными считаются работы во взрывоопасных зонах и пространствах, где возможна концентрация горючих паров.\n\nПровести анализ воздуха. Специалист газоспасательной службы или обученный работник выполняет анализ с помощью газоанализаторов до начала и во время работ. При превышении ПДК работа запрещается.\n\nОбеспечить вентиляцию. Организовать приточно-вытяжную вентиляцию или естественное проветривание для снижения концентрации газов.\n\nНазначить наблюдающего. В газоопасных работах участвует наблюдающий, контролирующий состояние работников и газовой среды.\n\nИспользовать СИЗ. Обязателен дыхательный аппарат или противогаз, искробезопасный инструмент, диэлектрическая одежда.\n\nКлючевые выводы: 1. Газоопасные работы требуют специального допуска, контроля воздуха и постоянного наблюдения. 2. Анализ воздуха проводится перед началом и регулярно во время работ; при превышении ПДК работа прекращается. 3. СИЗ и искробезопасный инструмент обязательны; вентиляция снижает концентрацию газов.\n\nРекомендуемые видео:\n- «Газоопасные работы: инструктаж по охране труда»\n  Ссылка: https://www.youtube.com/watch?v=HHHHHHH\n  Источник: Смыслотека\n  Почему подходит: Дудл-ролик описывает правила проведения газоопасных работ, необходимость анализа воздуха и использования СИЗ.\n- «Газоопасные работы и контроль среды»\n  Ссылка: https://rutube.ru/video/IIIIIII/\n  Источник: Учебный центр «Газоспасательная служба»\n  Почему подходит: Видеоурок объясняет классификацию газоопасных работ и порядок проведения контроля воздушной среды.",
+            "materialType": "TEXT",
+            "sortOrder": 0,
+            "videoReferences": [
+              {
+                "title": "«Газоопасные работы: инструктаж по охране труда»",
+                "url": "https://www.youtube.com/watch?v=HHHHHHH",
+                "source": "Смыслотека",
+                "why": "Дудл-ролик описывает правила проведения газоопасных работ, необходимость анализа воздуха и использования СИЗ."
+              },
+              {
+                "title": "«Газоопасные работы и контроль среды»",
+                "url": "https://rutube.ru/video/IIIIIII/",
+                "source": "Учебный центр «Газоспасательная служба»",
+                "why": "Видеоурок объясняет классификацию газоопасных работ и порядок проведения контроля воздушной среды."
+              }
+            ]
+          },
+          "test": {
+            "code": "TEST-PROC-GASWORK",
+            "name": "Газоопасные работы и контроль воздуха",
+            "description": "Тест по теме: Газоопасные работы и контроль воздушной среды",
+            "testType": "CONTROL",
+            "thresholdPercent": 80,
+            "scoringPolicyCode": "DEFAULT",
+            "sortOrder": 0,
+            "assignAsActiveFinal": true,
+            "questions": [
+              {
+                "code": "Q-PROC-GASWORK-01",
+                "body": "Когда работа считается газоопасной?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 0,
+                "explanation": "Газоопасные работы связаны с риском образования опасной газовой среды.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-GASWORK-01-A",
+                    "body": "При любом ремонте",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-01-B",
+                    "body": "Когда возможно образование взрывоопасной или токсичной газовой смеси",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-01-C",
+                    "body": "Когда требуется электрический инструмент",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-01-D",
+                    "body": "При уборке",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-GASWORK-02",
+                "body": "Какие действия обязательны перед началом газоопасных работ?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 1,
+                "explanation": "Анализ воздуха, допуск и вентиляция — обязательные требования; снятие СИЗ недопустимо.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-GASWORK-02-A",
+                    "body": "Анализ воздуха",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-02-B",
+                    "body": "Получение наряда-допуска",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-02-C",
+                    "body": "Снятие СИЗ",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-02-D",
+                    "body": "Обеспечение вентиляции",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-GASWORK-03",
+                "body": "Кто контролирует состояние воздуха во время газоопасных работ?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 2,
+                "explanation": "Контроль осуществляет обученный наблюдающий.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-GASWORK-03-A",
+                    "body": "Любой работник",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-03-B",
+                    "body": "Назначенный наблюдающий или специалист",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-03-C",
+                    "body": "Администратор офиса",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-03-D",
+                    "body": "Случайный прохожий",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-GASWORK-04",
+                "body": "Что делать при превышении предельно допустимой концентрации (ПДК)?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 3,
+                "explanation": "При превышении ПДК работы прекращают, людей выводят; затем устраняют причины и обеспечивают вентиляцию.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-GASWORK-04-A",
+                    "body": "Немедленно прекратить работы",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-04-B",
+                    "body": "Продолжить работу до завершения",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-04-C",
+                    "body": "Улучшить вентиляцию",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-04-D",
+                    "body": "Увести работников из опасной зоны",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-GASWORK-05",
+                "body": "Каким должен быть инструмент при газоопасных работах?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 4,
+                "explanation": "Искробезопасный инструмент предотвращает искрообразование.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-GASWORK-05-A",
+                    "body": "Обычным металлическим",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-05-B",
+                    "body": "Искробезопасным (из цветных металлов)",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-05-C",
+                    "body": "Любым удобным",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-05-D",
+                    "body": "Электроинструментом высокой мощности",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-GASWORK-06",
+                "body": "Какие СИЗ обязательны при газоопасных работах?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 5,
+                "explanation": "Для защиты необходимы дыхательные аппараты, перчатки и обувь; солнцезащитные очки не являются обязательными.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-GASWORK-06-A",
+                    "body": "Противогаз/дыхательный аппарат",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-06-B",
+                    "body": "Перчатки",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-06-C",
+                    "body": "Диэлектрическая обувь",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-GASWORK-06-D",
+                    "body": "Солнцезащитные очки",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "code": "TOPIC-PROC-LEAK",
+          "name": "Действия при обнаружении утечки, запаха газа или разлива продукта",
+          "description": "определить правильную последовательность действий при обнаружении утечки, запаха газа или разлива продукта для предотвращения аварии и минимизации последствий.",
+          "sortOrder": 3,
+          "material": {
+            "code": "MAT-PROC-LEAK",
+            "name": "Действия при обнаружении утечки, запаха газа или разлива продукта",
+            "description": "определить правильную последовательность действий при обнаружении утечки, запаха газа или разлива продукта для предотвращения аварии и минимизации последствий.",
+            "body": "При обнаружении утечки жидкости, пара или запаха газа необходимо:\n\nПрекратить работу и изолировать источник. Остановить оборудование, перекрыть вентили и закрыть задвижки; не пользоваться открытым огнём.\n\nОповестить руководителя и персонал. Сообщить о происшествии по установленному каналу связи; предупредить других работников, чтобы они вышли из опасной зоны.\n\nОбеспечить вентиляцию и принять меры по локализации. При разливе нефти — засыпать сорбентом, ограничить распространение; при утечке газа — обеспечить проветривание.\n\nЭвакуироваться. Покинуть опасную зону, воспользоваться средствами защиты органов дыхания; встречаться в установленном месте.\n\nНе возвращаться до устранения аварии. Дожидаться указаний от аварийных служб; не пытаться самостоятельно устранить серьёзную утечку без допуска.\n\nКлючевые выводы: 1. При утечке главное — прекратить работу, изолировать источник и оповестить руководителя. 2. Локализация разлива требует применения сорбентов и ограждения зоны, а при утечке газа — вентиляции. 3. Самостоятельные попытки устранить крупный разлив без допуска запрещены; действуйте только по указанию аварийных служб.\n\nРекомендуемые видео:\n- «Утечки и разливы на производстве: как действовать»\n  Ссылка: https://www.youtube.com/watch?v=JJJJJJJ\n  Источник: Канал «Охрана труда»\n  Почему подходит: Видео рассматривает порядок действий при утечках газа и разливах: остановка оборудования, сообщение, локализация, эвакуация.\n- «Действия при аварийной утечке газа»\n  Ссылка: https://mchs.gov.ru/video/gas-leak-action\n  Источник: МЧС России\n  Почему подходит: Официальный ролик МЧС объясняет, как действовать при обнаружении запаха газа: перекрыть источник, вызвать аварийную службу, эвакуироваться.",
+            "materialType": "TEXT",
+            "sortOrder": 0,
+            "videoReferences": [
+              {
+                "title": "«Утечки и разливы на производстве: как действовать»",
+                "url": "https://www.youtube.com/watch?v=JJJJJJJ",
+                "source": "Канал «Охрана труда»",
+                "why": "Видео рассматривает порядок действий при утечках газа и разливах: остановка оборудования, сообщение, локализация, эвакуация."
+              },
+              {
+                "title": "«Действия при аварийной утечке газа»",
+                "url": "https://mchs.gov.ru/video/gas-leak-action",
+                "source": "МЧС России",
+                "why": "Официальный ролик МЧС объясняет, как действовать при обнаружении запаха газа: перекрыть источник, вызвать аварийную службу, эвакуироваться."
+              }
+            ]
+          },
+          "test": {
+            "code": "TEST-PROC-LEAK",
+            "name": "Действия при утечках и разливах",
+            "description": "Тест по теме: Действия при обнаружении утечки, запаха газа или разлива продукта",
+            "testType": "CONTROL",
+            "thresholdPercent": 80,
+            "scoringPolicyCode": "DEFAULT",
+            "sortOrder": 0,
+            "assignAsActiveFinal": true,
+            "questions": [
+              {
+                "code": "Q-PROC-LEAK-01",
+                "body": "Что делать при обнаружении запаха газа?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 0,
+                "explanation": "Нужно прекратить работу, перекрыть газ и сообщить; курение и продолжение работы недопустимы.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-LEAK-01-A",
+                    "body": "Курить рядом с местом утечки",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-01-B",
+                    "body": "Прекратить работу, перекрыть вентили и сообщить руководителю",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-01-C",
+                    "body": "Проветрить помещение и продолжить работу",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-01-D",
+                    "body": "Закрыть помещение и уйти домой",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-LEAK-02",
+                "body": "Какие действия правильны при разливе нефти?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 1,
+                "explanation": "Зону разлива нужно локализовать и сообщить; использование огня запрещено.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-LEAK-02-A",
+                    "body": "Ограничить распространение, применить сорбенты",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-02-B",
+                    "body": "Зажечь факел для сжигания",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-02-C",
+                    "body": "Сообщить руководителю",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-02-D",
+                    "body": "Использовать открытый огонь для испарения",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-LEAK-03",
+                "body": "Кто может устранять серьёзную утечку или разлив?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 2,
+                "explanation": "Ликвидацию серьёзных аварий проводят обученные службы.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-LEAK-03-A",
+                    "body": "Любой работник",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-03-B",
+                    "body": "Специализированные аварийные службы",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-03-C",
+                    "body": "Сторонние посетители",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-03-D",
+                    "body": "Никто",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-LEAK-04",
+                "body": "Что нужно сделать после оповещения персонала об утечке?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 3,
+                "explanation": "Следует покинуть зону и собраться в безопасном месте; возвращаться и устранять самостоятельно нельзя.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-LEAK-04-A",
+                    "body": "Покинуть опасную зону",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-04-B",
+                    "body": "Вернуться за личными вещами",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-04-C",
+                    "body": "Следовать к месту сбора",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-04-D",
+                    "body": "Попытаться устранить утечку самостоятельно",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-LEAK-05",
+                "body": "Для чего используется вентиляция при утечке газа?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 4,
+                "explanation": "Вентиляция снижает концентрацию газа и предотвращает взрыв.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-LEAK-05-A",
+                    "body": "Чтобы создать сквозняк",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-05-B",
+                    "body": "Чтобы снизить концентрацию газа до безопасного уровня",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-05-C",
+                    "body": "Для охлаждения оборудования",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-05-D",
+                    "body": "Чтобы увеличить давление",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-PROC-LEAK-06",
+                "body": "При обнаружении разлива продукта работник должен…",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 5,
+                "explanation": "Сообщение, локализация и СИЗ обязательны; игнорировать нельзя.",
+                "options": [
+                  {
+                    "code": "OPT-PROC-LEAK-06-A",
+                    "body": "Сообщить руководителю",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-06-B",
+                    "body": "Локализовать разлив, используя сорбент",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-06-C",
+                    "body": "Игнорировать, если объём мал",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-PROC-LEAK-06-D",
+                    "body": "Применять СИЗ",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "COURSE-FIRE-EMERG",
+      "name": "Пожарная безопасность и действия при нештатных ситуациях",
+      "description": "Курс посвящён правилам пожарной безопасности на НПЗ, использованию первичных средств пожаротушения, порядку эвакуации и взаимодействию с руководством и аварийными службами при чрезвычайных ситуациях. Он помогает работникам правильно реагировать на угрозу возгорания и минимизировать последствия пожара.",
+      "sortOrder": 2,
+      "topics": [
+        {
+          "code": "TOPIC-FIRE-ZONES",
+          "name": "Пожароопасные зоны и источники воспламенения",
+          "description": "обучить работников идентифицировать пожароопасные зоны и источники воспламенения, соблюдать меры по их минимизации.",
+          "sortOrder": 0,
+          "material": {
+            "code": "MAT-FIRE-ZONES",
+            "name": "Пожароопасные зоны и источники воспламенения",
+            "description": "обучить работников идентифицировать пожароопасные зоны и источники воспламенения, соблюдать меры по их минимизации.",
+            "body": "Пожароопасные зоны на НПЗ классифицируются по степени риска. Взрывоопасные зоны класса 0 находятся там, где горючая среда присутствует постоянно (резервуары, газгольдеры); зона 1 — где горючие пары возможны в нормальном режиме (насосные, соединения); зона 2 — где пары появляются только при аварии или неисправности. Источники воспламенения включают открытое пламя, искры, горячие поверхности, статическое электричество и курение.\n\nЧтобы снизить риск, необходимо:\n\nисключить использование открытого огня в пожароопасных зонах;\n\nприменять оборудование во взрывозащищённом исполнении;\n\nзаземлять и использовать антистатические материалы;\n\nразмещать предупредительные знаки и обеспечивать ограждение.\n\nКлючевые выводы: 1. Пожароопасные зоны классифицируются по вероятности присутствия горючей среды; работник должен знать границы зон. 2. Источниками воспламенения могут быть пламя, искры и электростатический заряд; их необходимо исключать. 3. Использование взрывозащищённого оборудования и заземление снижает риск возгорания.\n\nРекомендуемые видео:\n- «Пожароопасные зоны и источники воспламенения»\n  Ссылка: https://rutube.ru/video/FFFFF/\n  Источник: Учебный центр «Пожарная безопасность»\n  Почему подходит: Видео рассматривает классификацию пожароопасных зон, рассказывает о возможных источниках зажигания и способах их устранения.\n- «Взрывоопасные зоны на предприятиях»\n  Ссылка: https://www.youtube.com/watch?v=GGGGGGG\n  Источник: Канал «Охрана труда»\n  Почему подходит: Ролик объясняет, что такое взрывоопасные зоны класса 0, 1 и 2 и какие требования к оборудованию действуют в каждой зоне.",
+            "materialType": "TEXT",
+            "sortOrder": 0,
+            "videoReferences": [
+              {
+                "title": "«Пожароопасные зоны и источники воспламенения»",
+                "url": "https://rutube.ru/video/FFFFF/",
+                "source": "Учебный центр «Пожарная безопасность»",
+                "why": "Видео рассматривает классификацию пожароопасных зон, рассказывает о возможных источниках зажигания и способах их устранения."
+              },
+              {
+                "title": "«Взрывоопасные зоны на предприятиях»",
+                "url": "https://www.youtube.com/watch?v=GGGGGGG",
+                "source": "Канал «Охрана труда»",
+                "why": "Ролик объясняет, что такое взрывоопасные зоны класса 0, 1 и 2 и какие требования к оборудованию действуют в каждой зоне."
+              }
+            ]
+          },
+          "test": {
+            "code": "TEST-FIRE-ZONES",
+            "name": "Пожароопасные зоны и источники",
+            "description": "Тест по теме: Пожароопасные зоны и источники воспламенения",
+            "testType": "CONTROL",
+            "thresholdPercent": 80,
+            "scoringPolicyCode": "DEFAULT",
+            "sortOrder": 0,
+            "assignAsActiveFinal": true,
+            "questions": [
+              {
+                "code": "Q-FIRE-ZONES-01",
+                "body": "В какой зоне горючая среда присутствует постоянно?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 0,
+                "explanation": "Зона 0 — это место постоянного присутствия горючей среды.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-ZONES-01-A",
+                    "body": "Зона 2",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-01-B",
+                    "body": "Зона 1",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-01-C",
+                    "body": "Зона 0",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-01-D",
+                    "body": "Зона 3",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-ZONES-02",
+                "body": "Что относится к источникам воспламенения?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 1,
+                "explanation": "Искры, горячие поверхности и курение являются источниками; заземление — мера защиты.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-ZONES-02-A",
+                    "body": "Искра от инструмента",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-02-B",
+                    "body": "Горячая поверхность",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-02-C",
+                    "body": "Заземление оборудования",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-02-D",
+                    "body": "Курение",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-ZONES-03",
+                "body": "Какое оборудование следует использовать в пожароопасной зоне?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 2,
+                "explanation": "Оборудование должно быть в взрывозащищённом исполнении.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-ZONES-03-A",
+                    "body": "Обычное бытовое",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-03-B",
+                    "body": "Взрывозащищённое",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-03-C",
+                    "body": "Любое, если аккуратно",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-03-D",
+                    "body": "Самодельное",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-ZONES-04",
+                "body": "Какие меры снижают риск воспламенения?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 3,
+                "explanation": "Заземление, антистатическая обувь и знаки предупреждают об опасности; курение увеличивает риск.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-ZONES-04-A",
+                    "body": "Заземление",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-04-B",
+                    "body": "Антистатическая обувь",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-04-C",
+                    "body": "Установка предупредительных знаков",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-04-D",
+                    "body": "Курение в рабочей зоне",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-ZONES-05",
+                "body": "Почему важно знать границы зон?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 4,
+                "explanation": "Знание зон позволяет применять соответствующие меры безопасности.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-ZONES-05-A",
+                    "body": "Для ориентации на местности",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-05-B",
+                    "body": "Чтобы выбирать правильное оборудование и меры безопасности",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-05-C",
+                    "body": "Для планирования отпуска",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-05-D",
+                    "body": "Это не важно",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-ZONES-06",
+                "body": "Где может находиться зона 2?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 5,
+                "explanation": "Зона 2 охватывает участки, где пары появляются лишь при повреждениях; административные площадки обычно не классифицируются, но вопрос позволяет проверить понимание.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-ZONES-06-A",
+                    "body": "В помещениях, где горючие пары появляются только при аварии",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-06-B",
+                    "body": "В местах постоянной концентрации паров",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-06-C",
+                    "body": "На административных площадях",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-ZONES-06-D",
+                    "body": "В резервуарах",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "code": "TOPIC-FIRE-EXT",
+          "name": "Первичные средства пожаротушения",
+          "description": "показать работникам виды первичных средств пожаротушения и научить правильно выбирать и использовать их в зависимости от класса пожара.",
+          "sortOrder": 1,
+          "material": {
+            "code": "MAT-FIRE-EXT",
+            "name": "Первичные средства пожаротушения",
+            "description": "показать работникам виды первичных средств пожаротушения и научить правильно выбирать и использовать их в зависимости от класса пожара.",
+            "body": "Первичные средства пожаротушения — это оборудование, предназначенное для тушения пожара на начальной стадии. К ним относятся:\n\nОгнетушители. Бывают водные, пенные, порошковые, углекислотные. Выбор зависит от класса пожара: водные и пенные — для твёрдых материалов, порошковые — универсальные, CO₂ — для электроустановок.\n\nПожарные краны и рукава. При наличии водоснабжения используются для подачи большого объёма воды; важно уметь быстро подключать рукав и направлять струю.\n\nПесок, кошма, пожарное одеяло. Применяются для тушения небольших очагов и проливов, особенно в лабораториях.\n\nСигнализация и кнопки вызова. Срабатывают при пожаре, запускают систему оповещения и автоматического тушения.\n\nПорядок использования огнетушителя: снять пломбу, выдернуть чеку, направить раструб на очаг пожара с расстояния 1,5–2 м и плавно нажимать на рычаг. Не применять водный огнетушитель для электрооборудования под напряжением.\n\nКлючевые выводы: 1. Существуют разные типы огнетушителей; важно выбирать их в зависимости от класса пожара. 2. Перед применением огнетушителя следует снять пломбу и выдернуть чеку; действовать против ветра. 3. Песок и пожарное одеяло применяются для локализации небольших очагов; пожарные краны требуют подготовки.\n\nРекомендуемые видео:\n- «Как выбрать и использовать огнетушитель»\n  Ссылка: https://www.youtube.com/watch?v=HHHHHHH\n  Источник: Канал «Пожарная безопасность»\n  Почему подходит: Видео демонстрирует разные виды огнетушителей, порядок их использования и ошибки, что соответствует теме.\n- «Первичные средства пожаротушения: инструкция»\n  Ссылка: https://rutube.ru/video/JJJJJJJ/\n  Источник: Всероссийское добровольное пожарное общество\n  Почему подходит: Ролик знакомит зрителей с первичными средствами пожаротушения, включая пожарные краны, рукава и песок.",
+            "materialType": "TEXT",
+            "sortOrder": 0,
+            "videoReferences": [
+              {
+                "title": "«Как выбрать и использовать огнетушитель»",
+                "url": "https://www.youtube.com/watch?v=HHHHHHH",
+                "source": "Канал «Пожарная безопасность»",
+                "why": "Видео демонстрирует разные виды огнетушителей, порядок их использования и ошибки, что соответствует теме."
+              },
+              {
+                "title": "«Первичные средства пожаротушения: инструкция»",
+                "url": "https://rutube.ru/video/JJJJJJJ/",
+                "source": "Всероссийское добровольное пожарное общество",
+                "why": "Ролик знакомит зрителей с первичными средствами пожаротушения, включая пожарные краны, рукава и песок."
+              }
+            ]
+          },
+          "test": {
+            "code": "TEST-FIRE-EXT",
+            "name": "Первичные средства пожаротушения",
+            "description": "Тест по теме: Первичные средства пожаротушения",
+            "testType": "CONTROL",
+            "thresholdPercent": 80,
+            "scoringPolicyCode": "DEFAULT",
+            "sortOrder": 0,
+            "assignAsActiveFinal": true,
+            "questions": [
+              {
+                "code": "Q-FIRE-EXT-01",
+                "body": "Какой огнетушитель безопасно применять при тушении электрооборудования под напряжением?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 0,
+                "explanation": "CO₂-огнетушитель не проводит электричество и безопасен для электроустановок.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-EXT-01-A",
+                    "body": "Водный",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-01-B",
+                    "body": "Углекислотный (CO₂)",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-01-C",
+                    "body": "Пенный",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-01-D",
+                    "body": "Порошковый",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-EXT-02",
+                "body": "Какие действия нужно выполнить перед использованием порошкового огнетушителя?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 1,
+                "explanation": "Необходимо снять пломбу, выдернуть чеку и проверить давление; переворачивать огнетушитель не требуется.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-EXT-02-A",
+                    "body": "Снять пломбу",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-02-B",
+                    "body": "Выдернуть чеку",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-02-C",
+                    "body": "Проверить давление по индикатору",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-02-D",
+                    "body": "Перевернуть вверх ногами и потрясти",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-EXT-03",
+                "body": "Что делать, если огнетушитель закончился, а очаг продолжает гореть?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 2,
+                "explanation": "При недостатке огнетушителя нужно использовать другие средства или покинуть помещение.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-EXT-03-A",
+                    "body": "Пытаться дуть на огонь",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-03-B",
+                    "body": "Использовать другое средство (песок, рукав) или эвакуироваться",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-03-C",
+                    "body": "Бросить огнетушитель в огонь",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-03-D",
+                    "body": "Продолжить работать",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-EXT-04",
+                "body": "Для каких пожаров подходит песок?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 3,
+                "explanation": "Песок применяют для жидких проливов и небольших очагов; электрооборудование тушат специальными средствами.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-EXT-04-A",
+                    "body": "Для тушения проливов нефти",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-04-B",
+                    "body": "Для тушения электроустановок",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-04-C",
+                    "body": "Для локализации небольших очагов",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-04-D",
+                    "body": "Для предотвращения распространения искр",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-EXT-05",
+                "body": "Какой шаг следует первым при использовании пожарного крана?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 4,
+                "explanation": "Сначала нужно подключить рукав, затем открыть воду.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-EXT-05-A",
+                    "body": "Открыть вентиль подачи воды",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-05-B",
+                    "body": "Развернуть и соединить рукав",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-05-C",
+                    "body": "Закрыть дверь",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-05-D",
+                    "body": "Позвонить домой",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-EXT-06",
+                "body": "Какие ошибки допускают при использовании огнетушителя?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 5,
+                "explanation": "Струю следует направлять с расстояния 1,5–2 м; необходимо снять пломбу и выбирать правильный тип огнетушителя; работать против ветра опасно для оператора.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-EXT-06-A",
+                    "body": "Направляют струю слишком близко",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-06-B",
+                    "body": "Забывают снять пломбу",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-06-C",
+                    "body": "Используют водный огнетушитель на электрооборудовании",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-EXT-06-D",
+                    "body": "Работают против ветра",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "code": "TOPIC-FIRE-EVAC",
+          "name": "Эвакуация и оповещение",
+          "description": "обучить персонал правильному поведению при эвакуации и оповещении, обеспечить соблюдение маршрутов и дисциплину в случае пожара или другой нештатной ситуации.",
+          "sortOrder": 2,
+          "material": {
+            "code": "MAT-FIRE-EVAC",
+            "name": "Эвакуация и оповещение",
+            "description": "обучить персонал правильному поведению при эвакуации и оповещении, обеспечить соблюдение маршрутов и дисциплину в случае пожара или другой нештатной ситуации.",
+            "body": "План эвакуации определяет порядок выхода людей из здания или установки. Основные требования:\n\nОповещение. При обнаружении пожара или угрозы необходимо активировать систему оповещения (кнопка, ручной извещатель) и сообщить руководителю.\n\nМаршрут. Работники должны знать ближайшие эвакуационные выходы; маршруты размещены на стендах. Во время эвакуации нельзя пользоваться лифтами.\n\nПорядок движения. Двигаться быстро, но без паники, помогать коллегам, особенно людям с ограничениями. Не возвращаться за личными вещами.\n\nСбор. После выхода собраться на установленной площадке, где будет проведена перекличка; сообщить о наличии или отсутствии пострадавших.\n\nКлючевые выводы: 1. Оповещение — первый шаг при возникновении пожара; план эвакуации должен быть изучен заранее. 2. Двигаться нужно к ближайшему выходу, избегая лифтов; помогать тем, кто нуждается в помощи. 3. После эвакуации необходимо собраться в безопасном месте и дождаться указаний от руководителя или пожарных.\n\nРекомендуемые видео:\n- «Правила эвакуации при пожаре»\n  Ссылка: https://www.youtube.com/watch?v=KKKKKKK\n  Источник: МЧС России\n  Почему подходит: Официальный ролик МЧС демонстрирует правильные действия при эвакуации, работу сигнализации, использование выходов и точки сбора.\n- «Эвакуация персонала на производстве»\n  Ссылка: https://rutube.ru/video/LLLLLLL/\n  Источник: Учебный центр «Пожарная безопасность»\n  Почему подходит: Видео описывает порядок оповещения и эвакуации на предприятиях, уделяет внимание дисциплине и взаимодействию.",
+            "materialType": "TEXT",
+            "sortOrder": 0,
+            "videoReferences": [
+              {
+                "title": "«Правила эвакуации при пожаре»",
+                "url": "https://www.youtube.com/watch?v=KKKKKKK",
+                "source": "МЧС России",
+                "why": "Официальный ролик МЧС демонстрирует правильные действия при эвакуации, работу сигнализации, использование выходов и точки сбора."
+              },
+              {
+                "title": "«Эвакуация персонала на производстве»",
+                "url": "https://rutube.ru/video/LLLLLLL/",
+                "source": "Учебный центр «Пожарная безопасность»",
+                "why": "Видео описывает порядок оповещения и эвакуации на предприятиях, уделяет внимание дисциплине и взаимодействию."
+              }
+            ]
+          },
+          "test": {
+            "code": "TEST-FIRE-EVAC",
+            "name": "Эвакуация и оповещение",
+            "description": "Тест по теме: Эвакуация и оповещение",
+            "testType": "CONTROL",
+            "thresholdPercent": 80,
+            "scoringPolicyCode": "DEFAULT",
+            "sortOrder": 0,
+            "assignAsActiveFinal": true,
+            "questions": [
+              {
+                "code": "Q-FIRE-EVAC-01",
+                "body": "Что необходимо сделать при обнаружении пожара?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 0,
+                "explanation": "Важно сразу оповестить и вызвать помощь.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-EVAC-01-A",
+                    "body": "Спрятаться под стол",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-01-B",
+                    "body": "Активировать систему оповещения и сообщить руководителю",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-01-C",
+                    "body": "Снять обувь",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-01-D",
+                    "body": "Продолжить работу",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-EVAC-02",
+                "body": "Как правильно двигаться при эвакуации?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 1,
+                "explanation": "Следует двигаться быстро, помогая другим; лифты и возвращение за вещами запрещены.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-EVAC-02-A",
+                    "body": "Быстро, без паники",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-02-B",
+                    "body": "Пользоваться лифтами",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-02-C",
+                    "body": "Помогать людям с ограничениями",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-02-D",
+                    "body": "Возвращаться за личными вещами",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-EVAC-03",
+                "body": "Что делать после выхода из здания?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 2,
+                "explanation": "Нужно собраться на площадке и пройти перекличку.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-EVAC-03-A",
+                    "body": "Разойтись по домам",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-03-B",
+                    "body": "Собраться на площадке сбора и дождаться инструкций",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-03-C",
+                    "body": "Вернуться внутрь за оставленными предметами",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-03-D",
+                    "body": "Уехать на машине",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-EVAC-04",
+                "body": "Какие пути эвакуации допустимы?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 3,
+                "explanation": "Основной — обозначенный выход; окна допустимы как запасной путь; лифты и люки недопустимы.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-EVAC-04-A",
+                    "body": "Ближайший обозначенный выход",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-04-B",
+                    "body": "Служебные лифты",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-04-C",
+                    "body": "Окна на первом этаже (как запасной путь)",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-04-D",
+                    "body": "Канализационные люки",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-EVAC-05",
+                "body": "Когда можно вернуться в помещение?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 4,
+                "explanation": "Возвращаться можно только после официального разрешения.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-EVAC-05-A",
+                    "body": "Когда дым рассеется",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-05-B",
+                    "body": "После разрешения руководителя и пожарных служб",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-05-C",
+                    "body": "Сразу после окончания тревоги",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-05-D",
+                    "body": "По собственному усмотрению",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-EVAC-06",
+                "body": "Что запрещено во время эвакуации?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 5,
+                "explanation": "Задерживать эвакуацию и возвращаться за вещами запрещено; использование телефона для вызова службы — допустимо.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-EVAC-06-A",
+                    "body": "Пользоваться мобильным телефоном для вызова пожарных",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-06-B",
+                    "body": "Останавливать коллег для беседы",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-06-C",
+                    "body": "Спешить",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-EVAC-06-D",
+                    "body": "Возвращаться за забытыми вещами",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 3
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "code": "TOPIC-FIRE-COOP",
+          "name": "Взаимодействие с руководителем работ и аварийными службами",
+          "description": "объяснить, как правильно взаимодействовать с руководителем работ и аварийными службами в случае аварии или пожара, чтобы обеспечить оперативное реагирование.",
+          "sortOrder": 3,
+          "material": {
+            "code": "MAT-FIRE-COOP",
+            "name": "Взаимодействие с руководителем работ и аварийными службами",
+            "description": "объяснить, как правильно взаимодействовать с руководителем работ и аварийными службами в случае аварии или пожара, чтобы обеспечить оперативное реагирование.",
+            "body": "В ситуации аварии или пожара важно чётко взаимодействовать с руководством и службами:\n\nУведомление. Работник обязан немедленно сообщить непосредственному руководителю и диспетчеру о происшествии, указав место, характер опасности и состояние пострадавших.\n\nПолучение инструкций. До прибытия аварийных служб руководитель организует действия персонала: закрытие вентилей, отключение энергии, эвакуация. Работники должны беспрекословно выполнять эти указания.\n\nСотрудничество с аварийными службами. При прибытии пожарных или газоспасателей необходимо предоставить информацию о технологическом процессе, местонахождении оборудования, источниках энергии и опасных веществах.\n\nДокументирование. После завершения аварийных работ составляются отчёты о происшествии и анализ причин; работник может быть опрошен для уточнения деталей.\n\nКлючевые выводы: 1. Вовремя уведомлять руководство и диспетчера об аварии — первая обязанность работника. 2. Выполнять указания руководителя работ и аварийных служб необходимо для сохранения жизни и здоровья. 3. Предоставление точной информации аварийным службам помогает быстро устранить угрозу.\n\nРекомендуемые видео:\n- «Взаимодействие с аварийными службами»\n  Ссылка: https://www.youtube.com/watch?v=MMMMMMM\n  Источник: Канал «Аварийная служба НПЗ»\n  Почему подходит: Видео показывает процесс взаимодействия сотрудников производства с аварийными службами: сообщение, передача информации, выполнение указаний.\n- «Как сообщить об аварии и сотрудничать с пожарными»\n  Ссылка: https://rutube.ru/video/NNNNNNN/\n  Источник: Учебный центр «Пожарная безопасность»\n  Почему подходит: Ролик учит правильно сообщать об аварии, предоставлять информацию пожарным и действовать под их руководством.",
+            "materialType": "TEXT",
+            "sortOrder": 0,
+            "videoReferences": [
+              {
+                "title": "«Взаимодействие с аварийными службами»",
+                "url": "https://www.youtube.com/watch?v=MMMMMMM",
+                "source": "Канал «Аварийная служба НПЗ»",
+                "why": "Видео показывает процесс взаимодействия сотрудников производства с аварийными службами: сообщение, передача информации, выполнение указаний."
+              },
+              {
+                "title": "«Как сообщить об аварии и сотрудничать с пожарными»",
+                "url": "https://rutube.ru/video/NNNNNNN/",
+                "source": "Учебный центр «Пожарная безопасность»",
+                "why": "Ролик учит правильно сообщать об аварии, предоставлять информацию пожарным и действовать под их руководством."
+              }
+            ]
+          },
+          "test": {
+            "code": "TEST-FIRE-COOP",
+            "name": "Взаимодействие с руководителем и аварийными службами",
+            "description": "Тест по теме: Взаимодействие с руководителем работ и аварийными службами",
+            "testType": "CONTROL",
+            "thresholdPercent": 80,
+            "scoringPolicyCode": "DEFAULT",
+            "sortOrder": 0,
+            "assignAsActiveFinal": true,
+            "questions": [
+              {
+                "code": "Q-FIRE-COOP-01",
+                "body": "Кто первым должен быть уведомлён об аварии?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 0,
+                "explanation": "Руководитель или диспетчер отвечают за организацию действий.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-COOP-01-A",
+                    "body": "Друзья",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-01-B",
+                    "body": "Непосредственный руководитель или диспетчер",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-01-C",
+                    "body": "Соседний цех",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-01-D",
+                    "body": "Сотрудники охраны",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-COOP-02",
+                "body": "Какие сведения нужно сообщить аварийным службам?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 1,
+                "explanation": "Необходимо сообщать фактические сведения о происшествии; личные планы не имеют отношения.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-COOP-02-A",
+                    "body": "Местоположение аварии",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-02-B",
+                    "body": "Характер опасности",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-02-C",
+                    "body": "Число пострадавших",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-02-D",
+                    "body": "Личные планы на вечер",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-COOP-03",
+                "body": "Что делать, если указания руководителя противоречат инструкции?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 2,
+                "explanation": "Инструкция имеет приоритет; спорные вопросы уточняют у руководства.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-COOP-03-A",
+                    "body": "Игнорировать инструкции",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-03-B",
+                    "body": "Следовать инструкции и при необходимости уточнить у руководства",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-03-C",
+                    "body": "Самовольно выбрать действия",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-03-D",
+                    "body": "Отказаться от работы",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-COOP-04",
+                "body": "Как следует вести себя при взаимодействии с пожарными?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 3,
+                "explanation": "Нужно сотрудничать и выполнять указания; скрываться или командовать пожарными недопустимо.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-COOP-04-A",
+                    "body": "Предоставить информацию о технологическом процессе",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-04-B",
+                    "body": "Скрываться",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-04-C",
+                    "body": "Выполнять их указания",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-04-D",
+                    "body": "Указывать им, что делать",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-COOP-05",
+                "body": "Когда составляется отчёт о происшествии?",
+                "questionType": "SINGLE_CHOICE",
+                "sortOrder": 4,
+                "explanation": "Анализ происшествия и отчёт составляются после устранения аварии.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-COOP-05-A",
+                    "body": "До начала работы",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-05-B",
+                    "body": "После устранения аварии",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-05-C",
+                    "body": "Во время эвакуации",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-05-D",
+                    "body": "Никогда",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              },
+              {
+                "code": "Q-FIRE-COOP-06",
+                "body": "Почему важно точное взаимодействие с аварийными службами?",
+                "questionType": "MULTIPLE_CHOICE",
+                "sortOrder": 5,
+                "explanation": "Правильное взаимодействие ускоряет ликвидацию, снижает ущерб и формирует культуру безопасности.",
+                "options": [
+                  {
+                    "code": "OPT-FIRE-COOP-06-A",
+                    "body": "Это обеспечивает быструю ликвидацию угрозы",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 0
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-06-B",
+                    "body": "Снижает ущерб",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 1
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-06-C",
+                    "body": "Повышает доверие между службами",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": true,
+                    "displayOrder": 2
+                  },
+                  {
+                    "code": "OPT-FIRE-COOP-06-D",
+                    "body": "Это не имеет значения",
+                    "answerOptionRole": "CHOICE_OPTION",
+                    "isCorrect": false,
+                    "displayOrder": 3
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

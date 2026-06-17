@@ -1,0 +1,52 @@
+employee_number,org_external_id,org_path,org_runtime_name,assignment_type,note
+NPZ-ITR-HQ-001,HQ,/department/npz/zavodoupravlenie,zavodoupravlenie,PRIMARY,Single ITR chief at headquarters
+NPZ-ITR-PROD-001,PROD,/department/npz/production,production,PRIMARY,Single ITR chief for production block
+NPZ-ITR-CCK-001,CCK,/department/npz/production/cck,cck,PRIMARY,ITR chief for CCK complex
+NPZ-ITR-CMT-001,CMT,/department/npz/production/komt,komt,PRIMARY,ITR chief for CMT complex
+NPZ-ITR-UKK-001,CCK-UKK,/department/npz/production/cck/ukk,ukk,PRIMARY,ITR chief for installation
+NPZ-ITR-UPV-001,CCK-UPV,/department/npz/production/cck/upv,upv,PRIMARY,ITR chief for installation
+NPZ-ITR-MTBEO-001,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,PRIMARY,ITR chief for installation
+NPZ-ITR-GOBKK-001,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,PRIMARY,ITR chief for installation
+NPZ-ITR-TAME-001,CMT-TAME,/department/npz/production/komt/tame,tame,PRIMARY,ITR chief for installation
+NPZ-EXP-EDU-001,EDU,/department/npz/edu,edu,PRIMARY,Single expert for learning materials department
+NPZ-ITR-HSE-001,HSE,/department/npz/hse,hse,PRIMARY,ITR specialist for HSE department
+NPZ-OP-UKK-001,CCK-UKK,/department/npz/production/cck/ukk,ukk,PRIMARY,Installation operator
+NPZ-OP-UKK-002,CCK-UKK,/department/npz/production/cck/ukk,ukk,PRIMARY,Installation operator
+NPZ-OP-UKK-003,CCK-UKK,/department/npz/production/cck/ukk,ukk,PRIMARY,Installation operator
+NPZ-OP-UKK-004,CCK-UKK,/department/npz/production/cck/ukk,ukk,PRIMARY,Installation operator
+NPZ-OP-UKK-005,CCK-UKK,/department/npz/production/cck/ukk,ukk,PRIMARY,Installation operator
+NPZ-OP-UKK-006,CCK-UKK,/department/npz/production/cck/ukk,ukk,PRIMARY,Installation operator
+NPZ-OP-UKK-007,CCK-UKK,/department/npz/production/cck/ukk,ukk,PRIMARY,Installation operator
+NPZ-OP-UKK-008,CCK-UKK,/department/npz/production/cck/ukk,ukk,PRIMARY,Installation operator
+NPZ-OP-UPV-001,CCK-UPV,/department/npz/production/cck/upv,upv,PRIMARY,Installation operator
+NPZ-OP-UPV-002,CCK-UPV,/department/npz/production/cck/upv,upv,PRIMARY,Installation operator
+NPZ-OP-UPV-003,CCK-UPV,/department/npz/production/cck/upv,upv,PRIMARY,Installation operator
+NPZ-OP-UPV-004,CCK-UPV,/department/npz/production/cck/upv,upv,PRIMARY,Installation operator
+NPZ-OP-UPV-005,CCK-UPV,/department/npz/production/cck/upv,upv,PRIMARY,Installation operator
+NPZ-OP-UPV-006,CCK-UPV,/department/npz/production/cck/upv,upv,PRIMARY,Installation operator
+NPZ-OP-UPV-007,CCK-UPV,/department/npz/production/cck/upv,upv,PRIMARY,Installation operator
+NPZ-OP-UPV-008,CCK-UPV,/department/npz/production/cck/upv,upv,PRIMARY,Installation operator
+NPZ-OP-MTBEO-001,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,PRIMARY,Installation operator
+NPZ-OP-MTBEO-002,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,PRIMARY,Installation operator
+NPZ-OP-MTBEO-003,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,PRIMARY,Installation operator
+NPZ-OP-MTBEO-004,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,PRIMARY,Installation operator
+NPZ-OP-MTBEO-005,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,PRIMARY,Installation operator
+NPZ-OP-MTBEO-006,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,PRIMARY,Installation operator
+NPZ-OP-MTBEO-007,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,PRIMARY,Installation operator
+NPZ-OP-MTBEO-008,CMT-MTBEO,/department/npz/production/komt/mtbeo,mtbeo,PRIMARY,Installation operator
+NPZ-OP-GOBKK-001,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,PRIMARY,Installation operator
+NPZ-OP-GOBKK-002,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,PRIMARY,Installation operator
+NPZ-OP-GOBKK-003,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,PRIMARY,Installation operator
+NPZ-OP-GOBKK-004,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,PRIMARY,Installation operator
+NPZ-OP-GOBKK-005,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,PRIMARY,Installation operator
+NPZ-OP-GOBKK-006,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,PRIMARY,Installation operator
+NPZ-OP-GOBKK-007,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,PRIMARY,Installation operator
+NPZ-OP-GOBKK-008,CMT-GOBKK,/department/npz/production/komt/gobkk,gobkk,PRIMARY,Installation operator
+NPZ-OP-TAME-001,CMT-TAME,/department/npz/production/komt/tame,tame,PRIMARY,Installation operator
+NPZ-OP-TAME-002,CMT-TAME,/department/npz/production/komt/tame,tame,PRIMARY,Installation operator
+NPZ-OP-TAME-003,CMT-TAME,/department/npz/production/komt/tame,tame,PRIMARY,Installation operator
+NPZ-OP-TAME-004,CMT-TAME,/department/npz/production/komt/tame,tame,PRIMARY,Installation operator
+NPZ-OP-TAME-005,CMT-TAME,/department/npz/production/komt/tame,tame,PRIMARY,Installation operator
+NPZ-OP-TAME-006,CMT-TAME,/department/npz/production/komt/tame,tame,PRIMARY,Installation operator
+NPZ-OP-TAME-007,CMT-TAME,/department/npz/production/komt/tame,tame,PRIMARY,Installation operator
+NPZ-OP-TAME-008,CMT-TAME,/department/npz/production/komt/tame,tame,PRIMARY,Installation operator

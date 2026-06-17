@@ -1,0 +1,7 @@
+code,name,description,nodeKind,canBeOperatorHomeUnit,canBeCampaignTarget,participatesInSubtreeScope,canHaveManagementRelation,canHaveAccessArea
+department,Department,Верхний управленческий уровень demo-контура,LINEAR,false,false,true,true,true
+enterprise,Enterprise,Предприятие верхнего уровня,LINEAR,false,false,true,true,true
+administrative_unit,Administrative Unit,Административное подразделение предприятия,LINEAR,false,false,true,true,true
+production_block,Production Block,Производственный блок предприятия,LINEAR,false,false,true,true,true
+production_complex,Production Complex,Производственный комплекс в составе блока,LINEAR,false,false,true,true,true
+process_unit,Process Unit,Технологическая установка,LINEAR,true,true,true,true,true
